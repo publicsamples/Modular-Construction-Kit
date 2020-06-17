@@ -1,6 +1,6 @@
 # Modular-Construction-Kit
 
-A construction kit recorded with Eurorack Modular. Patches for Logic Sampler only. Kontakt users can find these sounds here: https://github.com/publicsamples/Morph-Instruments
+A construction kit recorded with a Eurorack Modular. 
 
 # Loading
 
