@@ -12,11 +12,18 @@ A construction kit recorded with a Eurorack Modular.
 4. Select patches under "User Patches" in the library panel 
 
 
+****Kontakt****
+
+1.  Open Kontakt
+2. From the file menu select "Batch resave". Proceed with yes
+3. Open the folder with the .nki files
+4. Once the batch resave process has completed open a sample using the file browser
+
 # Help out
   
 Hey you! Yes, you with the sampler! This project really needs your help! 
 
- - New formats. Currently only EXS24, is supported. 
+ - New formats. Currently only EXS24 & Kontakt are supported.  
  - The SFZ files are largely untested. 
  - New sounds!
  
