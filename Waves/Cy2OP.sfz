@@ -1,0 +1,23 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Cy2OP.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Samples/Cy2OP/
+
+<group>        // Group
+<region> sample=Cy2op10-C3-95-LY0Y.wav key=60 lokey=0 hikey=127 lovel=104 hivel=111  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=233407 loop_end=545447
+<region> sample=Cy2op10-C3-79-UEF5.wav key=60 lokey=0 hikey=127 lovel=96 hivel=103  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=94923 loop_end=529183
+<region> sample=Cy1op10-C3-111-YZ02.wav key=60 lokey=0 hikey=127 lovel=48 hivel=55  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=362402 loop_end=518963
+<region> sample=Cy2op10-C3-48-XVWD.wav key=60 lokey=0 hikey=127 lovel=80 hivel=87  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=166954 loop_end=482986
+<region> sample=Cy2op10-C3-16-VSAH.wav key=60 lokey=0 hikey=127 lovel=64 hivel=71  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=696 loop_end=119126
+<region> sample=Cy1op10-C3-16-JA5V.wav key=60 lokey=0 hikey=127 lovel=0 hivel=7  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=848 loop_end=273913
+<region> sample=Cy2op10-C3-32-RZQX.wav key=60 lokey=0 hikey=127 lovel=72 hivel=79  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=18010 loop_end=389808
+<region> sample=Cy2op10-C3-64-9WET.wav key=60 lokey=0 hikey=127 lovel=88 hivel=95  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=376476 loop_end=516450
+<region> sample=Cy1op10-C3-127-QO02.wav key=60 lokey=0 hikey=127 lovel=56 hivel=63  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=411152 loop_end=557751
+<region> sample=Cy1op10-C3-48-8UTP.wav key=60 lokey=0 hikey=127 lovel=16 hivel=23  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=272106 loop_end=418688
+<region> sample=Cy1op10-C3-95-T5XP.wav key=60 lokey=0 hikey=127 lovel=40 hivel=47  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=80319 loop_end=224279
+<region> sample=Cy1op10-C3-64-8AEV.wav key=60 lokey=0 hikey=127 lovel=24 hivel=31  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=245253 loop_end=452295
+<region> sample=Cy1op10-C3-32-3PT2.wav key=60 lokey=0 hikey=127 lovel=8 hivel=15  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=286957 loop_end=477523
+<region> sample=Cy1op10-C3-79-2WGJ.wav key=60 lokey=0 hikey=127 lovel=32 hivel=39  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=345426 loop_end=551090
+<region> sample=Cy2op10-C3-127-U7SE.wav key=60 lokey=0 hikey=127 lovel=120 hivel=127  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=215889 loop_end=579345
+<region> sample=Cy2op10-C3-111-FZ1B.wav key=60 lokey=0 hikey=127 lovel=112 hivel=119  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=9429 loop_end=186728

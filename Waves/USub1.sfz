@@ -1,0 +1,71 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - USub1.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Samples/USub1/
+
+<group>        // Group
+<region> sample=ultrasub37 37-O5O1.wav key=48 lokey=0 hikey=127 lovel=72 hivel=73  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=273403 loop_end=413696
+<region> sample=ultrasub35 35-DMOJ.wav key=48 lokey=0 hikey=127 lovel=68 hivel=69  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=22523 loop_end=112633
+<region> sample=ultrasub47 47-ZGH5.wav key=48 lokey=0 hikey=127 lovel=92 hivel=93  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=295866 loop_end=399295
+<region> sample=ultrasub16 16-ONLM.wav key=48 lokey=0 hikey=127 lovel=30 hivel=31  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=18624 loop_end=257208
+<region> sample=ultrasub54 54-EAZR.wav key=48 lokey=0 hikey=127 lovel=106 hivel=107  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=188222 loop_end=341828
+<region> sample=ultrasub55 55-2TY3.wav key=48 lokey=0 hikey=127 lovel=108 hivel=109  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=277499 loop_end=417790
+<region> sample=ultrasub15 15-HYL2.wav key=48 lokey=0 hikey=127 lovel=28 hivel=29  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=15578 loop_end=330963
+<region> sample=ultrasub22 22-M5IE.wav key=48 lokey=0 hikey=127 lovel=42 hivel=43  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=63452 loop_end=381915
+<region> sample=ultrasub21 21-KOUQ.wav key=48 lokey=0 hikey=127 lovel=40 hivel=41  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=12097 loop_end=290621
+<region> sample=ultrasub42 42-LDJX.wav key=48 lokey=0 hikey=127 lovel=82 hivel=83  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=232835 loop_end=407938
+<region> sample=ultrasub30 30-P1FG.wav key=48 lokey=0 hikey=127 lovel=58 hivel=59  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=142206 loop_end=309122
+<region> sample=ultrasub40 40-RK10.wav key=48 lokey=0 hikey=127 lovel=78 hivel=79  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=230256 loop_end=378732
+<region> sample=ultrasub23 23-DW90.wav key=48 lokey=0 hikey=127 lovel=44 hivel=45  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=186067 loop_end=302808
+<region> sample=ultrasub41 41-4BNV.wav key=48 lokey=0 hikey=127 lovel=80 hivel=81  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=287218 loop_end=403950
+<region> sample=ultrasub50 50-RGOL.wav key=48 lokey=0 hikey=127 lovel=98 hivel=99  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=90953 loop_end=297799
+<region> sample=ultrasub24 24-V03Q.wav key=48 lokey=0 hikey=127 lovel=46 hivel=47  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=150738 loop_end=299220
+<region> sample=ultrasub43 43-UG40.wav key=48 lokey=0 hikey=127 lovel=84 hivel=85  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=118631 loop_end=307050
+<region> sample=ultrasub27 27-XG4P.wav key=48 lokey=0 hikey=127 lovel=52 hivel=53  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=155812 loop_end=394400
+<region> sample=ultrasub56 56-7YFB.wav key=48 lokey=0 hikey=127 lovel=110 hivel=111  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=103213 loop_end=225063
+<region> sample=ultrasub32 32-S82N.wav key=48 lokey=0 hikey=127 lovel=62 hivel=63  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=208482 loop_end=298595
+<region> sample=ultrasub60 60-IA6T.wav key=48 lokey=0 hikey=127 lovel=118 hivel=119  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=219539 loop_end=359835
+<region> sample=ultrasub45 45-DRI5.wav key=48 lokey=0 hikey=127 lovel=88 hivel=89  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=147291 loop_end=380763
+<region> sample=ultrasub13 13-9MLD.wav key=48 lokey=0 hikey=127 lovel=24 hivel=25  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=241740 loop_end=345164
+<region> sample=ultrasub34 34-KXFQ.wav key=48 lokey=0 hikey=127 lovel=66 hivel=67  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=322518 loop_end=412628
+<region> sample=ultrasub25 25-GU2K.wav key=48 lokey=0 hikey=127 lovel=48 hivel=49  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=164289 loop_end=416191
+<region> sample=ultrasub49 49-53SZ.wav key=48 lokey=0 hikey=127 lovel=96 hivel=97  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=319483 loop_end=409593
+<region> sample=ultrasub36 36-UO03.wav key=48 lokey=0 hikey=127 lovel=70 hivel=71  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=31564 loop_end=193349
+<region> sample=ultrasub48 48-I5N5.wav key=48 lokey=0 hikey=127 lovel=94 hivel=95  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=309006 loop_end=399119
+<region> sample=ultrasub64 64-BO0A.wav key=48 lokey=0 hikey=127 lovel=126 hivel=127  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=214859 loop_end=315218
+<region> sample=ultrasub39 39-FAGI.wav key=48 lokey=0 hikey=127 lovel=76 hivel=77  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=129951 loop_end=386974
+<region> sample=ultrasub46 46-C30A.wav key=48 lokey=0 hikey=127 lovel=90 hivel=91  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=183020 loop_end=299758
+<region> sample=ultrasub29 29-AIG5.wav key=48 lokey=0 hikey=127 lovel=56 hivel=57  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=70101 loop_end=414163
+<region> sample=ultrasub18 18-UXJX.wav key=48 lokey=0 hikey=127 lovel=34 hivel=35  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=314140 loop_end=404252
+<region> sample=ultrasub33 33-IDLN.wav key=48 lokey=0 hikey=127 lovel=64 hivel=65  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=327464 loop_end=417577
+<region> sample=ultrasub19 19-OHV6.wav key=48 lokey=0 hikey=127 lovel=36 hivel=37  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=44897 loop_end=193373
+<region> sample=ultrasub1 1-TKFF.wav key=48 lokey=0 hikey=127 lovel=0 hivel=1  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=128847 loop_end=237387
+<region> sample=ultrasub28 28-AHNV.wav key=48 lokey=0 hikey=127 lovel=54 hivel=55  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=89416 loop_end=184657
+<region> sample=ultrasub57 57-WFRE.wav key=48 lokey=0 hikey=127 lovel=112 hivel=113  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=295733 loop_end=390961
+<region> sample=ultrasub14 14-KDP1.wav key=48 lokey=0 hikey=127 lovel=26 hivel=27  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=15782 loop_end=416165
+<region> sample=ultrasub53 53-2RUW.wav key=48 lokey=0 hikey=127 lovel=104 hivel=105  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=169398 loop_end=416177
+<region> sample=ultrasub52 52-LBZR.wav key=48 lokey=0 hikey=127 lovel=102 hivel=103  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=235345 loop_end=352084
+<region> sample=ultrasub5 5-W4AK.wav key=48 lokey=0 hikey=127 lovel=8 hivel=9  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=82064 loop_end=399502
+<region> sample=ultrasub51 51-I3C1.wav key=48 lokey=0 hikey=127 lovel=100 hivel=101  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=128991 loop_end=290776
+<region> sample=ultrasub61 61-K19N.wav key=48 lokey=0 hikey=127 lovel=120 hivel=121  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=111441 loop_end=211796
+<region> sample=ultrasub63 63-OC9J.wav key=48 lokey=0 hikey=127 lovel=124 hivel=125  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=15794 loop_end=237997
+<region> sample=ultrasub58 58-5KQG.wav key=48 lokey=0 hikey=127 lovel=114 hivel=115  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=33189 loop_end=278954
+<region> sample=ultrasub38 38-EG27.wav key=48 lokey=0 hikey=127 lovel=74 hivel=75  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=133020 loop_end=223139
+<region> sample=ultrasub44 44-HSRC.wav key=48 lokey=0 hikey=127 lovel=86 hivel=87  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=77666 loop_end=374627
+<region> sample=ultrasub17 17-BT2N.wav key=48 lokey=0 hikey=127 lovel=32 hivel=33  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=276475 loop_end=419828
+<region> sample=ultrasub59 59-35QU.wav key=48 lokey=0 hikey=127 lovel=116 hivel=117  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=213458 loop_end=327112
+<region> sample=ultrasub20 20-6LQ4.wav key=48 lokey=0 hikey=127 lovel=38 hivel=39  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=178943 loop_end=327421
+<region> sample=ultrasub62 62-0N11.wav key=48 lokey=0 hikey=127 lovel=122 hivel=123  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=126878 loop_end=295843
+<region> sample=ultrasub12 12-B87W.wav key=48 lokey=0 hikey=127 lovel=22 hivel=23  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=110735 loop_end=214153
+<region> sample=ultrasub26 26-2UG0.wav key=48 lokey=0 hikey=127 lovel=50 hivel=51  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=67783 loop_end=383174
+<region> sample=ultrasub3 3-5E2Q.wav key=48 lokey=0 hikey=127 lovel=4 hivel=5  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=205803 loop_end=391157
+<region> sample=ultrasub10 10-HH28.wav key=48 lokey=0 hikey=127 lovel=18 hivel=19  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=207116 loop_end=387338
+<region> sample=ultrasub11 11-PQBH.wav key=48 lokey=0 hikey=127 lovel=20 hivel=21  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=188656 loop_end=337139
+<region> sample=ultrasub4 4-BK3H.wav key=48 lokey=0 hikey=127 lovel=6 hivel=7  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=281534 loop_end=395200
+<region> sample=ultrasub9 9-L7I4.wav key=48 lokey=0 hikey=127 lovel=16 hivel=17  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=168797 loop_end=258902
+<region> sample=ultrasub8 8-HH0P.wav key=48 lokey=0 hikey=127 lovel=14 hivel=15  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=82612 loop_end=339640
+<region> sample=ultrasub6 6-A7CC.wav key=48 lokey=0 hikey=127 lovel=10 hivel=11  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=245682 loop_end=399282
+<region> sample=ultrasub31 31-008G.wav key=48 lokey=0 hikey=127 lovel=60 hivel=61  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=87976 loop_end=228268
+<region> sample=ultrasub7 7-BADP.wav key=48 lokey=0 hikey=127 lovel=12 hivel=13  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=29078 loop_end=137621
+<region> sample=ultrasub2 2-MROK.wav key=48 lokey=0 hikey=127 lovel=2 hivel=3  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=119726 loop_end=209836

@@ -1,0 +1,15 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - TRChord.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Samples/TRChord/
+
+<group>        // Group
+<region> sample=trchord-C1-48-WEV1.wav key=48 lokey=0 hikey=127 lovel=32 hivel=47  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=407645 loop_end=552985
+<region> sample=trchord-C1-127-TY5L.wav key=48 lokey=0 hikey=127 lovel=112 hivel=127  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=360193 loop_end=477746
+<region> sample=trchord-C1-64-FVX8.wav key=48 lokey=0 hikey=127 lovel=48 hivel=63  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=354349 loop_end=573325
+<region> sample=trchord-C1-95-SIBF.wav key=48 lokey=0 hikey=127 lovel=80 hivel=95  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=388801 loop_end=577425
+<region> sample=trchord-C1-79-NTGV.wav key=48 lokey=0 hikey=127 lovel=64 hivel=79  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=384348 loop_end=574697
+<region> sample=trchord-C1-111-IJT9.wav key=48 lokey=0 hikey=127 lovel=96 hivel=111  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=229381 loop_end=467005
+<region> sample=trchord-C1-16-6TVK.wav key=48 lokey=0 hikey=127 lovel=0 hivel=15  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=236160 loop_end=460441
+<region> sample=trchord-C1-32-MK75.wav key=48 lokey=0 hikey=127 lovel=16 hivel=31  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=391164 loop_end=558222

@@ -1,0 +1,23 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - HiResSqr.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Samples/HiResSqr/
+
+<group>        // Group
+<region> sample=HiReSqr-C1-103-4OYS.wav key=36 lokey=0 hikey=127 lovel=96 hivel=103  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=543408 loop_end=759465
+<region> sample=HiReSqr-C1-95-4LRP.wav key=36 lokey=0 hikey=127 lovel=88 hivel=95  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=244407 loop_end=426676
+<region> sample=HiReSqr-C1-87-1BE3.wav key=36 lokey=0 hikey=127 lovel=80 hivel=87  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=459611 loop_end=759312
+<region> sample=HiReSqr-C1-119-PP3Q.wav key=36 lokey=0 hikey=127 lovel=112 hivel=119  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=554966 loop_end=711641
+<region> sample=HiReSqr-C1-8-T2ZD.wav key=36 lokey=0 hikey=127 lovel=0 hivel=7  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=584446 loop_end=747611
+<region> sample=HiReSqr-C1-79-KFP7.wav key=36 lokey=0 hikey=127 lovel=72 hivel=79  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=559998 loop_end=736829
+<region> sample=HiReSqr-C1-56-EUVX.wav key=36 lokey=0 hikey=127 lovel=48 hivel=55  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=580393 loop_end=754468
+<region> sample=HiReSqr-C1-71-PX8A.wav key=36 lokey=0 hikey=127 lovel=64 hivel=71  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=584543 loop_end=761359
+<region> sample=HiReSqr-C1-48-P7YQ.wav key=36 lokey=0 hikey=127 lovel=40 hivel=47  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=372938 loop_end=602310
+<region> sample=HiReSqr-C1-64-B4Q8.wav key=36 lokey=0 hikey=127 lovel=56 hivel=63  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=475046 loop_end=707171
+<region> sample=HiReSqr-C1-40-4WCW.wav key=36 lokey=0 hikey=127 lovel=32 hivel=39  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=563350 loop_end=763027
+<region> sample=HiReSqr-C1-32-JX7Y.wav key=36 lokey=0 hikey=127 lovel=24 hivel=31  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=565925 loop_end=760168
+<region> sample=HiReSqr-C1-111-X3F0.wav key=36 lokey=0 hikey=127 lovel=104 hivel=111  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=584397 loop_end=770767
+<region> sample=HiReSqr-C1-127-Z1CH.wav key=36 lokey=0 hikey=127 lovel=120 hivel=127  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=533167 loop_end=723629
+<region> sample=HiReSqr-C1-24-EEGD.wav key=36 lokey=0 hikey=127 lovel=16 hivel=23  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=565503 loop_end=761082
+<region> sample=HiReSqr-C1-16-6OZ4.wav key=36 lokey=0 hikey=127 lovel=8 hivel=15  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=545389 loop_end=711271

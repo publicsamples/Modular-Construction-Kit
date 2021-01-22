@@ -1,0 +1,23 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Braids-ATL.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Samples/Braids-ATL/
+
+<group>        // Group
+<region> sample=braids-atl-C2-40-UTIU.aif key=48 lokey=0 hikey=127 lovel=32 hivel=39 volume=1 loop_mode=loop_continuous loop_start=63885 loop_end=149846
+<region> sample=braids-atl-C2-127-SPBQ.aif key=48 lokey=0 hikey=127 lovel=120 hivel=127 volume=-1 loop_mode=loop_continuous loop_start=145613 loop_end=228541
+<region> sample=braids-atl-C2-48-TORX.aif key=48 lokey=0 hikey=127 lovel=40 hivel=47 volume=-1 loop_mode=loop_continuous loop_start=65734 loop_end=145628
+<region> sample=braids-atl-C2-8-7JRA.aif key=48 lokey=0 hikey=127 lovel=0 hivel=7 volume=2 loop_mode=loop_continuous loop_start=3072 loop_end=367820
+<region> sample=braids-atl-C2-71-AM7Z.aif key=48 lokey=0 hikey=127 lovel=64 hivel=71 loop_mode=loop_continuous loop_start=100378 loop_end=373771
+<region> sample=braids-atl-C2-111-I20U.aif key=48 lokey=0 hikey=127 lovel=104 hivel=111 volume=1 loop_mode=loop_continuous loop_start=4110 loop_end=368858
+<region> sample=braids-atl-C2-119-FM51.aif key=48 lokey=0 hikey=127 lovel=112 hivel=119 volume=-1 loop_mode=loop_continuous loop_start=145620 loop_end=363727
+<region> sample=braids-atl-C2-32-4X4D.aif key=48 lokey=0 hikey=127 lovel=24 hivel=31 loop_mode=loop_continuous loop_start=35 loop_end=364450
+<region> sample=braids-atl-C2-79-5GT9.aif key=48 lokey=0 hikey=127 lovel=72 hivel=79 loop_mode=loop_continuous loop_start=201259 loop_end=284187
+<region> sample=braids-atl-C2-16-J4WJ.aif key=48 lokey=0 hikey=127 lovel=8 hivel=15 loop_mode=loop_continuous loop_start=19927 loop_end=105555
+<region> sample=braids-atl-C2-64-DHBG.aif key=48 lokey=0 hikey=127 lovel=56 hivel=63 volume=1 loop_mode=loop_continuous loop_start=9754 loop_end=374502
+<region> sample=braids-atl-C2-95-1DJJ.aif key=48 lokey=0 hikey=127 lovel=88 hivel=95 volume=2 loop_mode=loop_continuous loop_start=278288 loop_end=364249
+<region> sample=braids-atl-C2-87-CM07.aif key=48 lokey=0 hikey=127 lovel=80 hivel=87 volume=1 loop_mode=loop_continuous loop_start=70 loop_end=364484
+<region> sample=braids-atl-C2-103-5RY5.aif key=48 lokey=0 hikey=127 lovel=96 hivel=103 volume=1 loop_mode=loop_continuous loop_start=20914 loop_end=106875
+<region> sample=braids-atl-C2-56-EXMA.aif key=48 lokey=0 hikey=127 lovel=48 hivel=55 volume=2 loop_mode=loop_continuous loop_start=278367 loop_end=364328
+<region> sample=braids-atl-C2-24-LBMG.aif key=48 lokey=0 hikey=127 lovel=16 hivel=23 loop_mode=loop_continuous loop_start=33 loop_end=364448

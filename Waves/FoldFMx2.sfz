@@ -1,0 +1,16 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - FoldFMx2.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=/Volumes/usb/Audio/wav/
+
+<group>        // Group
+<region> sample=floldfmx2-C1-127-H4IA.wav key=36 lokey=0 hikey=127 lovel=113 hivel=127  volume=6 amp_veltrack=20  offset=370082 loop_mode=loop_continuous loop_start=370082 loop_end=539098
+<region> sample=floldfmx2-C1-95-S1S9.wav key=36 lokey=0 hikey=127 lovel=85 hivel=98  volume=6 amp_veltrack=20  offset=211963 loop_mode=loop_continuous loop_start=211963 loop_end=575471
+<region> sample=floldfmx2-C1-32-PWYF.wav key=36 lokey=0 hikey=127 lovel=28 hivel=41  volume=6 amp_veltrack=20  offset=454165 loop_mode=loop_continuous loop_start=454165 loop_end=578888
+<region> sample=floldfmx2-C1-111-R912.wav key=36 lokey=0 hikey=127 lovel=99 hivel=112  volume=6 amp_veltrack=20  offset=148954 loop_mode=loop_continuous loop_start=148954 loop_end=268799
+<region> sample=floldfmx2-C1-79-MSS9.wav key=36 lokey=0 hikey=127 lovel=71 hivel=84  volume=6 amp_veltrack=20  offset=310837 loop_mode=loop_continuous loop_start=310837 loop_end=569899
+<region> sample=floldfmx2-C1-64-Y7ZG.wav key=36 lokey=0 hikey=127 lovel=56 hivel=70  volume=6 amp_veltrack=20  offset=423869 loop_mode=loop_continuous loop_start=423869 loop_end=548808
+<region> sample=floldfm-C1-127-ENTE.wav key=36 lokey=0 hikey=127 lovel=0 hivel=13  volume=6 amp_veltrack=20  offset=384734 loop_mode=loop_continuous loop_start=384734 loop_end=551648
+<region> sample=floldfmx2-C1-16-8S2A.wav key=36 lokey=0 hikey=127 lovel=14 hivel=27  volume=6 amp_veltrack=20  offset=452631 loop_mode=loop_continuous loop_start=452631 loop_end=576025
+<region> sample=floldfmx2-C1-48-CDCS.wav key=36 lokey=0 hikey=127 lovel=42 hivel=55  volume=6 amp_veltrack=20  offset=396919 loop_mode=loop_continuous loop_start=396919 loop_end=524459

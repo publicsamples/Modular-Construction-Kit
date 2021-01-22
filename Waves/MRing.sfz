@@ -1,0 +1,39 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - MRing.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Samples/MRing/
+
+<group>        // Group
+<region> sample=mring11 12-IPRD.wav key=48 lokey=0 hikey=127 lovel=20 hivel=23  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=6581 loop_end=392608
+<region> sample=mring63 64-W8TT.wav key=48 lokey=0 hikey=127 lovel=124 hivel=127  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=17128 loop_end=403155
+<region> sample=mring3 4-BC3L.wav key=48 lokey=0 hikey=127 lovel=4 hivel=7  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=20238 loop_end=406265
+<region> sample=mring27 28-JCPA.wav key=48 lokey=0 hikey=127 lovel=52 hivel=55  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=5974 loop_end=392001
+<region> sample=mring31 32-CSVK.wav key=48 lokey=0 hikey=127 lovel=60 hivel=63  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=16089 loop_end=402116
+<region> sample=mring33 34-VOEJ.wav key=48 lokey=0 hikey=127 lovel=64 hivel=67  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=6831 loop_end=392858
+<region> sample=mring13 14-OL2S.wav key=48 lokey=0 hikey=127 lovel=24 hivel=27  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=6881 loop_end=392908
+<region> sample=mring19 20-RCRV.wav key=48 lokey=0 hikey=127 lovel=36 hivel=39  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=9919 loop_end=395946
+<region> sample=mring37 38-VF6V.wav key=48 lokey=0 hikey=127 lovel=72 hivel=75  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=13989 loop_end=400016
+<region> sample=mring47 48-CAQV.wav key=48 lokey=0 hikey=127 lovel=92 hivel=95  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=11118 loop_end=397145
+<region> sample=mring5 6-8GHZ.wav key=48 lokey=0 hikey=127 lovel=8 hivel=11  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=7255 loop_end=393282
+<region> sample=mring29 30-ZQPP.wav key=48 lokey=0 hikey=127 lovel=56 hivel=59  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=5697 loop_end=391724
+<region> sample=mring57 58-S8WK.wav key=48 lokey=0 hikey=127 lovel=112 hivel=115  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=5422 loop_end=391449
+<region> sample=mring1 2-77HV.wav key=48 lokey=0 hikey=127 lovel=0 hivel=3  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=176407 loop_end=307508
+<region> sample=mring39 40-MBI5.wav key=48 lokey=0 hikey=127 lovel=76 hivel=79  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=8749 loop_end=394776
+<region> sample=mring23 24-I1C2.wav key=48 lokey=0 hikey=127 lovel=44 hivel=47  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=15182 loop_end=401209
+<region> sample=mring21 22-75ED.wav key=48 lokey=0 hikey=127 lovel=40 hivel=43  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=6523 loop_end=392550
+<region> sample=mring35 36-TTSC.wav key=48 lokey=0 hikey=127 lovel=68 hivel=71  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=7008 loop_end=393035
+<region> sample=mring49 50-2MMV.wav key=48 lokey=0 hikey=127 lovel=96 hivel=99  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=10950 loop_end=396977
+<region> sample=mring51 52-216Q.wav key=48 lokey=0 hikey=127 lovel=100 hivel=103  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=10954 loop_end=396981
+<region> sample=mring53 54-AF87.wav key=48 lokey=0 hikey=127 lovel=104 hivel=107  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=9815 loop_end=395842
+<region> sample=mring61 62-42IC.wav key=48 lokey=0 hikey=127 lovel=120 hivel=123  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=9059 loop_end=395086
+<region> sample=mring43 44-G07Z.wav key=48 lokey=0 hikey=127 lovel=84 hivel=87  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=8693 loop_end=394720
+<region> sample=mring25 26-P8GH.wav key=48 lokey=0 hikey=127 lovel=48 hivel=51  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=7778 loop_end=393805
+<region> sample=mring9 10-XTD6.wav key=48 lokey=0 hikey=127 lovel=16 hivel=19  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=12732 loop_end=398759
+<region> sample=mring17 18-1JIP.wav key=48 lokey=0 hikey=127 lovel=32 hivel=35  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=7663 loop_end=393690
+<region> sample=mring7 8-8F73.wav key=48 lokey=0 hikey=127 lovel=12 hivel=15  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=7982 loop_end=394009
+<region> sample=mring15 16-GXRP.wav key=48 lokey=0 hikey=127 lovel=28 hivel=31  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=7978 loop_end=394005
+<region> sample=mring45 46-WR6G.wav key=48 lokey=0 hikey=127 lovel=88 hivel=91  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=6782 loop_end=392809
+<region> sample=mring41 42-2PBX.wav key=48 lokey=0 hikey=127 lovel=80 hivel=83  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=10234 loop_end=396261
+<region> sample=mring59 60-W852.wav key=48 lokey=0 hikey=127 lovel=116 hivel=119  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=6768 loop_end=392795
+<region> sample=mring55 56-Y82K.wav key=48 lokey=0 hikey=127 lovel=108 hivel=111  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=9140 loop_end=395167

@@ -1,0 +1,14 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - 4tri.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Samples/4tri/
+
+<group>        // Group
+<region> sample=4tri-C3-111-K54K.wav key=60 lokey=0 hikey=127 lovel=109 hivel=127  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=306236 loop_end=525378
+<region> sample=4tri-C3-95-FKV1.wav key=60 lokey=0 hikey=127 lovel=91 hivel=108  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=268237 loop_end=458632
+<region> sample=4tri-C3-64-605S.wav key=60 lokey=0 hikey=127 lovel=54 hivel=72  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=182077 loop_end=531386
+<region> sample=4tri-C3-79-ZTI0.wav key=60 lokey=0 hikey=127 lovel=73 hivel=90  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=403710 loop_end=592069
+<region> sample=4tri-C3-16-447X.wav key=60 lokey=0 hikey=127 lovel=0 hivel=17  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=170877 loop_end=579347
+<region> sample=4tri-C3-32-S3SD.wav key=60 lokey=0 hikey=127 lovel=18 hivel=35  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=164794 loop_end=573333
+<region> sample=4tri-C3-48-PKFB.wav key=60 lokey=0 hikey=127 lovel=36 hivel=53  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=181877 loop_end=594869

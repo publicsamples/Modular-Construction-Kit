@@ -1,0 +1,15 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - RMFilter.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Samples/RMFilter/
+
+<group>        // Group
+<region> sample=rmfilter-C1-32-1M35.wav key=48 lokey=0 hikey=127 lovel=16 hivel=31  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=212333 loop_end=546136
+<region> sample=rmfilter-C1-127-3S1O.wav key=48 lokey=0 hikey=127 lovel=112 hivel=127  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=331166 loop_end=450113
+<region> sample=rmfilter-C1-79-AYKQ.wav key=48 lokey=0 hikey=127 lovel=64 hivel=79  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=238376 loop_end=382829
+<region> sample=rmfilter-C1-95-K4NI.wav key=48 lokey=0 hikey=127 lovel=80 hivel=95  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=361648 loop_end=480202
+<region> sample=rmfilter-C1-111-BRUV.wav key=48 lokey=0 hikey=127 lovel=96 hivel=111  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=334004 loop_end=545966
+<region> sample=rmfilter-C1-64-RU42.wav key=48 lokey=0 hikey=127 lovel=48 hivel=63  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=245772 loop_end=415944
+<region> sample=rmfilter-C1-48-GO9R.wav key=48 lokey=0 hikey=127 lovel=32 hivel=47  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=202391 loop_end=571702
+<region> sample=rmfilter-C1-16-WQGI.wav key=48 lokey=0 hikey=127 lovel=0 hivel=15  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=124809 loop_end=294903
