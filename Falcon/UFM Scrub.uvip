@@ -1,0 +1,34 @@
+<UVI4>
+    <Program Name="Program" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="UFM Scrub" TransposeOctaves="0" TransposeSemiTones="0" OutputName="" Polyphony="16" NotePolyphony="0" ProgramPath="/Users/richardtaylor/Music/Audio Music Apps/Sampler Instruments/Modular By Type/FrequencyModulation/UFM Scrub.uvip" LoopProgram="0" Streaming="1">
+        <ControlSignalSources/>
+        <Layers>
+            <Layer Name="Layer 0" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" Mute="0" MidiMute="0" Solo="0" DisplayName="Layer 1" OutputName="" LowKey="0" HighKey="127" CustomPolyphony="0" PlayMode="0" PortamentoTime="0.029999999" PortamentoCurve="0" PortamentoMode="0" NumVoicesPerNote="1" VelocityCurve="0">
+                <Properties Color="ffd6cc50"/>
+                <ControlSignalSources/>
+                <BusRouters/>
+                <Keygroups>
+                    <Keygroup Name="Keygroup 0" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="ufm.wav" OutputName="" ExclusiveGroup="0" LowKey="0" HighKey="127" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.050000001" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="0" AttackTime="9.9999947e-05" DecayTime="0.10186382" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="0" ReleaseTime="0.0014797087" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                            <StepEnvelope Name="Step Envelope 1" DisplayName="Step Env 1" Bypass="0" SyncToHost="1" NumSteps="16" Freq="0.25" Retrigger="0" Bipolar="0" InterpolationMode="0" Smooth="0" Levels="0.442857 0.000000 0.371429 0.000000 0.200000 0.200000 0.514286 0.128571 0.185714 0.000000 0.742857 0.214286 0.114286 0.300000 0.114286 0.371429"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SuperVPScrub Name="Oscillator" Position="0.11221875" Speed="0" Direction="1" WindowOverlap="4" WindowSize="92" SpectrumOversampling="0" TransientPreservation="1" ShapeInvariant="0" EnvelopePreservation="0" PreserveStereo="0" Remixing="0" SinMix="1" NoiseMix="1" TransientMix="1" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="50" DisplayName="Oscillator 1" SamplePath="./../Audio/UFM Scrub Samples/ufm.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0.49393857" Source="$Keygroup/Analog ADSR 1" Destination="Position" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0.42200971" Source="$Keygroup/Step Envelope 1" Destination="Position" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SuperVPScrub>
+                        </Oscillators>
+                    </Keygroup>
+                </Keygroups>
+            </Layer>
+        </Layers>
+    </Program>
+</UVI4>
