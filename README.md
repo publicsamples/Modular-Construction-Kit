@@ -6,10 +6,13 @@ A large collection of FM, AM ring mod, filter FM and phase modulation waveforms 
 
 **[Download Audio Files](https://github.com/publicsamples/Modular-Complex-Waveforms/releases/tag/fm-1.0)**
 
-# Support this project
+## **Get help**
 
-[Report issues](/issues) - [Buy a Sample Library](https://gumroad.com/modularsamples) - [Become a Patreon](https://www.patreon.com/modularsamples) - [Add new patches & Formats](/pulls)
+[Report an issue](https://github.com/publicsamples/home/issues) - [Ask a question](https://github.com/publicsamples/home/discussions) - [Guides](https://github.com/publicsamples/home/wiki)
+
+## **Support this project**
 
 [
-![dx15](https://www.modularsamples.com/samples/product/dx-15/dxx.jpg?raw=true)
-](https://modularsamples.gumroad.com/l/ZheoA?_ga=2.45787239.258770942.1631102835-235093083.1631102835)
+![dx15](https://www.modularsamples.com/img/msdx.png)
+](https://www.modularsamples.com/dx-15-for-kontakt/)
+
