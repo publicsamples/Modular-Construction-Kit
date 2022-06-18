@@ -1,0 +1,49 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - FoldSine.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Samples/FoldSine/
+
+<group>        // Group
+<region> sample=fldsine23 24-S11B.wav key=48 lokey=0 hikey=127 lovel=15 hivel=17  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=86789 loop_end=260883
+<region> sample=fldsine27 28-AR4P.wav key=48 lokey=0 hikey=127 lovel=21 hivel=23  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=165240 loop_end=261070
+<region> sample=fldsine31 32-FKH8.wav key=48 lokey=0 hikey=127 lovel=27 hivel=29  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=259444 loop_end=353233
+<region> sample=fldsine69 70-Z1EX.wav key=48 lokey=0 hikey=127 lovel=85 hivel=87  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=24086 loop_end=200205
+<region> sample=fldsine39 40-SVRX.wav key=48 lokey=0 hikey=127 lovel=39 hivel=41  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=151660 loop_end=412805
+<region> sample=fldsine87 88-T8CM.wav key=48 lokey=0 hikey=127 lovel=112 hivel=114  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=191948 loop_end=308688
+<region> sample=fldsine37 38-7GWK.wav key=48 lokey=0 hikey=127 lovel=36 hivel=38  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=18510 loop_end=239841
+<region> sample=fldsine17 18-CAM9.wav key=48 lokey=0 hikey=127 lovel=6 hivel=8  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=41644 loop_end=148264
+<region> sample=fldsine71 72-KBAH.wav key=48 lokey=0 hikey=127 lovel=88 hivel=90  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=115601 loop_end=380793
+<region> sample=fldsine13 14-IOKZ.wav key=48 lokey=0 hikey=127 lovel=0 hivel=2  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=83680 loop_end=192991
+<region> sample=fldsine61 62-Y0D2.wav key=48 lokey=0 hikey=127 lovel=73 hivel=75  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=259822 loop_end=345521
+<region> sample=fldsine81 82-EGQC.wav key=48 lokey=0 hikey=127 lovel=103 hivel=105  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=114725 loop_end=405560
+<region> sample=fldsine93 94-LJUM.wav key=48 lokey=0 hikey=127 lovel=121 hivel=123  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=64986 loop_end=419250
+<region> sample=fldsine29 30-II0G.wav key=48 lokey=0 hikey=127 lovel=24 hivel=26  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=153414 loop_end=258009
+<region> sample=fldsine85 86-SF7H.wav key=48 lokey=0 hikey=127 lovel=109 hivel=111  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=204177 loop_end=291227
+<region> sample=fldsine83 84-MSM9.wav key=48 lokey=0 hikey=127 lovel=106 hivel=108  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=171372 loop_end=296209
+<region> sample=fldsine65 66-A6TK.wav key=48 lokey=0 hikey=127 lovel=79 hivel=81  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=257988 loop_end=370677
+<region> sample=fldsine67 68-LA94.wav key=48 lokey=0 hikey=127 lovel=82 hivel=84  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=62533 loop_end=149582
+<region> sample=fldsine59 60-21DZ.wav key=48 lokey=0 hikey=127 lovel=70 hivel=72  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=160793 loop_end=301823
+<region> sample=fldsine89 90-HABT.wav key=48 lokey=0 hikey=127 lovel=115 hivel=117  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=85991 loop_end=378849
+<region> sample=fldsine63 64-X5FF.wav key=48 lokey=0 hikey=127 lovel=76 hivel=78  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=237936 loop_end=331057
+<region> sample=fldsine55 56-FAE8.wav key=48 lokey=0 hikey=127 lovel=64 hivel=66  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=315207 loop_end=404280
+<region> sample=fldsine21 22-IDDV.wav key=48 lokey=0 hikey=127 lovel=12 hivel=14  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=56981 loop_end=169671
+<region> sample=fldsine77 78-T7G4.wav key=48 lokey=0 hikey=127 lovel=97 hivel=99  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=98063 loop_end=418589
+<region> sample=fldsine41 42-PLDI.wav key=48 lokey=0 hikey=127 lovel=42 hivel=44  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=282082 loop_end=371153
+<region> sample=fldsine47 48-HD16.wav key=48 lokey=0 hikey=127 lovel=51 hivel=53  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=273707 loop_end=364805
+<region> sample=fldsine19 20-K5H8.wav key=48 lokey=0 hikey=127 lovel=9 hivel=11  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=44256 loop_end=260185
+<region> sample=fldsine57 58-X4B3.wav key=48 lokey=0 hikey=127 lovel=67 hivel=69  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=3039 loop_end=102904
+<region> sample=fldsine79 80-X76Y.wav key=48 lokey=0 hikey=127 lovel=100 hivel=102  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=184031 loop_end=415484
+<region> sample=fldsine51 52-2DAR.wav key=48 lokey=0 hikey=127 lovel=57 hivel=59  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=153076 loop_end=388578
+<region> sample=fldsine25 26-RBI4.wav key=48 lokey=0 hikey=127 lovel=18 hivel=20  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=143233 loop_end=380757
+<region> sample=fldsine43 44-A9Y6.wav key=48 lokey=0 hikey=127 lovel=45 hivel=47  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=66483 loop_end=155555
+<region> sample=fldsine35 36-P00O.wav key=48 lokey=0 hikey=127 lovel=33 hivel=35  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=124584 loop_end=215679
+<region> sample=fldsine75 76-JAOU.wav key=48 lokey=0 hikey=127 lovel=94 hivel=96  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=125187 loop_end=271615
+<region> sample=fldsine15 16-YK4B.wav key=48 lokey=0 hikey=127 lovel=3 hivel=5  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=3614 loop_end=131828
+<region> sample=fldsine33 34-NXCR.wav key=48 lokey=0 hikey=127 lovel=30 hivel=32  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=279397 loop_end=366445
+<region> sample=fldsine45 46-QUJW.wav key=48 lokey=0 hikey=127 lovel=48 hivel=50  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=107687 loop_end=411348
+<region> sample=fldsine49 50-U5YH.wav key=48 lokey=0 hikey=127 lovel=54 hivel=56  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=232663 loop_end=345353
+<region> sample=fldsine53 54-FWL1.wav key=48 lokey=0 hikey=127 lovel=60 hivel=63  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=145202 loop_end=283535
+<region> sample=fldsine91 92-Q09I.wav key=48 lokey=0 hikey=127 lovel=118 hivel=120  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=237270 loop_end=330391
+<region> sample=fldsine73 74-01KT.wav key=48 lokey=0 hikey=127 lovel=91 hivel=93  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=150166 loop_end=326287
+<region> sample=fldsine95 96-MREQ.wav key=48 lokey=0 hikey=127 lovel=124 hivel=127  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=277325 loop_end=419705

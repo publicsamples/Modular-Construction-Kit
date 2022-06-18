@@ -1,0 +1,15 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - CLop.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Samples/CLop/
+
+<group>        // Group
+<region> sample=CLop10-C3-48-E85T.wav key=60 lokey=0 hikey=127 lovel=32 hivel=47 pitch_keytrack=0  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=59189 loop_end=491991
+<region> sample=CLop10-C3-79-J88F.wav key=60 lokey=0 hikey=127 lovel=64 hivel=79 pitch_keytrack=0  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=81913 loop_end=514074
+<region> sample=CLop10-C3-64-IBYC.wav key=60 lokey=0 hikey=127 lovel=48 hivel=63 pitch_keytrack=0  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=53109 loop_end=487109
+<region> sample=CLop10-C3-32-MYED.wav key=60 lokey=0 hikey=127 lovel=16 hivel=31 pitch_keytrack=0  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=117547 loop_end=550493
+<region> sample=CLop10-C3-16-FDK5.wav key=60 lokey=0 hikey=127 lovel=0 hivel=15 pitch_keytrack=0  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=37761 loop_end=471463
+<region> sample=CLop10-C3-95-Q6I0.wav key=60 lokey=0 hikey=127 lovel=80 hivel=95 pitch_keytrack=0  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=5381 loop_end=438851
+<region> sample=CLop10-C3-111-YRSF.wav key=60 lokey=0 hikey=127 lovel=96 hivel=111 pitch_keytrack=0  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=122286 loop_end=556757
+<region> sample=CLop10-C3-127-8AQC.wav key=60 lokey=0 hikey=127 lovel=112 hivel=127 pitch_keytrack=0  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=33194 loop_end=466702

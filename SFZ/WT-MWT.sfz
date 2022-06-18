@@ -1,0 +1,47 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - MWT.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Samples/MWT/
+
+<group>        // Group
+<region> sample=mwt21 22-ATBH.wav key=48 lokey=0 hikey=127 lovel=57 hivel=59  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=9057 loop_end=24466
+<region> sample=mwt3 4-M0J6.wav key=48 lokey=0 hikey=127 lovel=6 hivel=8  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=25595 loop_end=41855
+<region> sample=mwt37 38-632H.wav key=48 lokey=0 hikey=127 lovel=83 hivel=85  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=23478 loop_end=39450
+<region> sample=mwt1 2-78SO.wav key=48 lokey=0 hikey=127 lovel=0 hivel=2  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=27177 loop_end=43439
+<region> sample=mwt3 4-SBCF.wav key=48 lokey=0 hikey=127 lovel=9 hivel=11  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=27164 loop_end=43136
+<region> sample=mwt57 58-PG57.wav key=48 lokey=0 hikey=127 lovel=115 hivel=117  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=24382 loop_end=40065
+<region> sample=mwt33 34-J9VL.wav key=48 lokey=0 hikey=127 lovel=76 hivel=79  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=15331 loop_end=31593
+<region> sample=mwt31 32-H9BI.wav key=48 lokey=0 hikey=127 lovel=73 hivel=75  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=15191 loop_end=31744
+<region> sample=mwt5 6-HJZX.wav key=48 lokey=0 hikey=127 lovel=16 hivel=18  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=25393 loop_end=41942
+<region> sample=mwt7 8-MUR6.wav key=48 lokey=0 hikey=127 lovel=22 hivel=24  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=10204 loop_end=41847
+<region> sample=mwt49 50-RXCN.wav key=48 lokey=0 hikey=127 lovel=102 hivel=104  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=8376 loop_end=40029
+<region> sample=mwt51 52-2CDX.wav key=48 lokey=0 hikey=127 lovel=105 hivel=107  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=24392 loop_end=40075
+<region> sample=mwt11 12-N32L.wav key=48 lokey=0 hikey=127 lovel=32 hivel=34  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=10122 loop_end=41766
+<region> sample=mwt13 14-KS0F.wav key=48 lokey=0 hikey=127 lovel=38 hivel=40  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=11504 loop_end=27502
+<region> sample=mwt41 42-SRLH.wav key=48 lokey=0 hikey=127 lovel=89 hivel=91  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=24325 loop_end=40007
+<region> sample=mwt59 60-1N6Q.wav key=48 lokey=0 hikey=127 lovel=118 hivel=120  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=7055 loop_end=48863
+<region> sample=mwt9 10-OLGY.wav key=48 lokey=0 hikey=127 lovel=28 hivel=31  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=27023 loop_end=43575
+<region> sample=mwt35 36-8ZNQ.wav key=48 lokey=0 hikey=127 lovel=80 hivel=82  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=23823 loop_end=40085
+<region> sample=mwt15 16-TLFZ.wav key=48 lokey=0 hikey=127 lovel=48 hivel=50  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=25394 loop_end=41940
+<region> sample=mwt23 24-U3VK.wav key=48 lokey=0 hikey=127 lovel=60 hivel=63  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=11731 loop_end=29162
+<region> sample=mwt15 16-4N19.wav key=48 lokey=0 hikey=127 lovel=44 hivel=47  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=12922 loop_end=29177
+<region> sample=mwt53 54-XVDD.wav key=48 lokey=0 hikey=127 lovel=108 hivel=111  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=8376 loop_end=40029
+<region> sample=mwt29 30-L59B.wav key=48 lokey=0 hikey=127 lovel=70 hivel=72  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=15086 loop_end=31349
+<region> sample=mwt5 6-8P3M.wav key=48 lokey=0 hikey=127 lovel=12 hivel=15  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=12191 loop_end=27284
+<region> sample=mwt13 14-RMV2.wav key=48 lokey=0 hikey=127 lovel=41 hivel=43  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=11428 loop_end=44832
+<region> sample=mwt43 44-N97F.wav key=48 lokey=0 hikey=127 lovel=92 hivel=95  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=60562 loop_end=111565
+<region> sample=mwt39 40-UXPP.wav key=48 lokey=0 hikey=127 lovel=86 hivel=88  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=24010 loop_end=39982
+<region> sample=mwt11 12-SWIA.wav key=48 lokey=0 hikey=127 lovel=35 hivel=37  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=27013 loop_end=43563
+<region> sample=mwt47 48-N4N2.wav key=48 lokey=0 hikey=127 lovel=99 hivel=101  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=23819 loop_end=40081
+<region> sample=mwt1 2-DG0P.wav key=48 lokey=0 hikey=127 lovel=3 hivel=5  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=25435 loop_end=41985
+<region> sample=mwt19 20-7R2I.wav key=48 lokey=0 hikey=127 lovel=54 hivel=56  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=13064 loop_end=28458
+<region> sample=mwt45 46-8C2R.wav key=48 lokey=0 hikey=127 lovel=96 hivel=98  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=23770 loop_end=40032
+<region> sample=mwt55 56-GT3A.wav key=48 lokey=0 hikey=127 lovel=112 hivel=114  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=24373 loop_end=40056
+<region> sample=mwt63 64-I5JQ.wav key=48 lokey=0 hikey=127 lovel=124 hivel=127  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=24372 loop_end=40055
+<region> sample=mwt7 8-DPHA.wav key=48 lokey=0 hikey=127 lovel=19 hivel=21  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=10203 loop_end=41846
+<region> sample=mwt25 26-QVG8.wav key=48 lokey=0 hikey=127 lovel=64 hivel=66  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=11195 loop_end=26600
+<region> sample=mwt9 10-BFII.wav key=48 lokey=0 hikey=127 lovel=25 hivel=27  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=27016 loop_end=43568
+<region> sample=mwt61 62-2967.wav key=48 lokey=0 hikey=127 lovel=121 hivel=123  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=24375 loop_end=40058
+<region> sample=mwt17 18-WTC5.wav key=48 lokey=0 hikey=127 lovel=51 hivel=53  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=13199 loop_end=29162
+<region> sample=mwt27 28-LTHB.wav key=48 lokey=0 hikey=127 lovel=67 hivel=69  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=5100 loop_end=46327

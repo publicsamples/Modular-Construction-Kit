@@ -1,0 +1,15 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - RMNoiseFilter.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Samples/RMNoiseFilter/
+
+<group>        // Group
+<region> sample=rmnoisefilter-C1-32-GG5Z.wav key=48 lokey=0 hikey=127 lovel=16 hivel=31  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=362570 loop_end=482826
+<region> sample=rmnoisefilter-C1-95-D74Q.wav key=48 lokey=0 hikey=127 lovel=80 hivel=95  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=410622 loop_end=533484
+<region> sample=rmnoisefilter-C1-79-8I0W.wav key=48 lokey=0 hikey=127 lovel=64 hivel=79  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=61931 loop_end=533993
+<region> sample=rmnoisefilter-C1-48-ZW9G.wav key=48 lokey=0 hikey=127 lovel=32 hivel=47  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=281427 loop_end=409813
+<region> sample=rmnoisefilter-C1-111-6DJA.wav key=48 lokey=0 hikey=127 lovel=96 hivel=111  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=38078 loop_end=180869
+<region> sample=rmnoisefilter-C1-127-M4ZK.wav key=48 lokey=0 hikey=127 lovel=112 hivel=127  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=404 loop_end=119785
+<region> sample=rmnoisefilter-C1-16-HFUZ.wav key=48 lokey=0 hikey=127 lovel=0 hivel=15  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=345321 loop_end=477802
+<region> sample=rmnoisefilter-C1-64-SE9C.wav key=48 lokey=0 hikey=127 lovel=48 hivel=63  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=275418 loop_end=438522

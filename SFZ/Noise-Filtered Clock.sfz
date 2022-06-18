@@ -1,0 +1,15 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Filtered Clock.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Samples/Filtered Clock/
+
+<group>        // Group
+<region> sample=CLKNhp10-C3-48-TX4Y.wav key=60 lokey=0 hikey=127 lovel=32 hivel=47  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=187904 loop_end=346591
+<region> sample=CLKNhp10-C3-127-J8O1.wav key=60 lokey=0 hikey=127 lovel=112 hivel=127  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=365893 loop_end=577848
+<region> sample=CLKNhp10-C3-111-6UGA.wav key=60 lokey=0 hikey=127 lovel=96 hivel=111  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=362030 loop_end=573992
+<region> sample=CLKNhp10-C3-16-KM6U.wav key=60 lokey=0 hikey=127 lovel=0 hivel=15  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=26308 loop_end=290470
+<region> sample=CLKNhp10-C3-32-9K1B.wav key=60 lokey=0 hikey=127 lovel=16 hivel=31  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=419777 loop_end=578441
+<region> sample=CLKNhp10-C3-79-CU3D.wav key=60 lokey=0 hikey=127 lovel=64 hivel=79  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=137873 loop_end=508551
+<region> sample=CLKNhp10-C3-95-EVJS.wav key=60 lokey=0 hikey=127 lovel=80 hivel=95  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=361789 loop_end=573718
+<region> sample=CLKNhp10-C3-64-058I.wav key=60 lokey=0 hikey=127 lovel=48 hivel=63  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=67949 loop_end=226656

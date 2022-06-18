@@ -1,0 +1,15 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - ResFlip.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Samples/ResFlip/
+
+<group>        // Group
+<region> sample=resfilp-C1-95-V0AO.wav key=48 lokey=0 hikey=127 lovel=80 hivel=95  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=353657 loop_end=470398
+<region> sample=resfilp-C1-32-ELR3.wav key=48 lokey=0 hikey=127 lovel=16 hivel=31  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=226520 loop_end=343157
+<region> sample=resfilp-C1-16-3SND.wav key=48 lokey=0 hikey=127 lovel=0 hivel=15  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=104483 loop_end=244760
+<region> sample=resfilp-C1-79-XPC3.wav key=48 lokey=0 hikey=127 lovel=64 hivel=79  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=324115 loop_end=513553
+<region> sample=resfilp-C1-111-3S6L.wav key=48 lokey=0 hikey=127 lovel=96 hivel=111  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=316478 loop_end=433220
+<region> sample=resfilp-C1-64-GDZU.wav key=48 lokey=0 hikey=127 lovel=48 hivel=63  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=296335 loop_end=519563
+<region> sample=resfilp-C1-127-NBJG.wav key=48 lokey=0 hikey=127 lovel=112 hivel=127  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=274876 loop_end=391626
+<region> sample=resfilp-C1-48-XGCM.wav key=48 lokey=0 hikey=127 lovel=32 hivel=47  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=383058 loop_end=528465

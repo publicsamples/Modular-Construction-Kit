@@ -1,0 +1,51 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - HGSaw.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Samples/HGSaw/
+
+<group>        // Group
+<region> sample=HQSAW85 86-J4FL.wav key=48 lokey=0 hikey=127 lovel=110 hivel=112  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=178808 loop_end=274813
+<region> sample=HQSAW87 88-IPJT.wav key=48 lokey=0 hikey=127 lovel=113 hivel=115  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=146168 loop_end=265244
+<region> sample=HQSAW79 80-KXG1.wav key=48 lokey=0 hikey=127 lovel=101 hivel=103  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=148121 loop_end=229522
+<region> sample=HQSAW81 82-WELG.wav key=48 lokey=0 hikey=127 lovel=104 hivel=106  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=103548 loop_end=365756
+<region> sample=HQSAW83 84-SWA1.wav key=48 lokey=0 hikey=127 lovel=107 hivel=109  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=292377 loop_end=406701
+<region> sample=HQSAW91 92-P3LP.wav key=48 lokey=0 hikey=127 lovel=119 hivel=121  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=214355 loop_end=296454
+<region> sample=HQSAW77 78-4JWW.wav key=48 lokey=0 hikey=127 lovel=98 hivel=100  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=201742 loop_end=286196
+<region> sample=HQSAW89 90-M7GO.wav key=48 lokey=0 hikey=127 lovel=116 hivel=118  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=206717 loop_end=309851
+<region> sample=HQSAW95 96-GSTS.wav key=48 lokey=0 hikey=127 lovel=125 hivel=127  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=248572 loop_end=360203
+<region> sample=HQSAW75 76-AA8M.wav key=48 lokey=0 hikey=127 lovel=96 hivel=97  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=320224 loop_end=411465
+<region> sample=HQSAW93 94-3AAQ.wav key=48 lokey=0 hikey=127 lovel=122 hivel=124  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=180232 loop_end=372946
+<region> sample=HQSAW69 70-1GDF.wav key=48 lokey=0 hikey=127 lovel=87 hivel=89  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=137883 loop_end=234809
+<region> sample=HQSAW65 66-NQHS.wav key=48 lokey=0 hikey=127 lovel=81 hivel=83  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=233107 loop_end=329297
+<region> sample=HQSAW71 72-BV12.wav key=48 lokey=0 hikey=127 lovel=90 hivel=92  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=301004 loop_end=412562
+<region> sample=HQSAW73 74-HWOK.wav key=48 lokey=0 hikey=127 lovel=93 hivel=95  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=277656 loop_end=373290
+<region> sample=HQSAW67 68-4YVT.wav key=48 lokey=0 hikey=127 lovel=84 hivel=86  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=236756 loop_end=334364
+<region> sample=HQSAW63 64-UQ7P.wav key=48 lokey=0 hikey=127 lovel=78 hivel=80  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=310686 loop_end=400903
+<region> sample=HQSAW61 62-UHHN.wav key=48 lokey=0 hikey=127 lovel=75 hivel=77  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=269508 loop_end=409575
+<region> sample=HQSAW59 60-6C5L.wav key=48 lokey=0 hikey=127 lovel=72 hivel=74  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=231222 loop_end=327872
+<region> sample=HQSAW57 58-22Z1.wav key=48 lokey=0 hikey=127 lovel=69 hivel=71  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=267718 loop_end=407449
+<region> sample=HQSAW55 56-79LG.wav key=48 lokey=0 hikey=127 lovel=66 hivel=68  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=101553 loop_end=198869
+<region> sample=HQSAW53 54-PLGS.wav key=48 lokey=0 hikey=127 lovel=64 hivel=65  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=174613 loop_end=285837
+<region> sample=HQSAW51 52-K6JD.wav key=48 lokey=0 hikey=127 lovel=61 hivel=63  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=317854 loop_end=406374
+<region> sample=HQSAW49 50-5ZXK.wav key=48 lokey=0 hikey=127 lovel=58 hivel=60  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=187544 loop_end=277068
+<region> sample=HQSAW46 48-H57C.wav key=48 lokey=0 hikey=127 lovel=55 hivel=57  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=245444 loop_end=340390
+<region> sample=HQSAW44 45-2SZ8.wav key=48 lokey=0 hikey=127 lovel=52 hivel=54  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=265462 loop_end=416698
+<region> sample=HQSAW40 41-54OU.wav key=48 lokey=0 hikey=127 lovel=46 hivel=48  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=220006 loop_end=417635
+<region> sample=HQSAW42 43-C6JM.wav key=48 lokey=0 hikey=127 lovel=49 hivel=51  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=242803 loop_end=375717
+<region> sample=HQSAW38 39-12WX.wav key=48 lokey=0 hikey=127 lovel=43 hivel=45  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=269155 loop_end=417962
+<region> sample=HQSAW36 37-XMHY.wav key=48 lokey=0 hikey=127 lovel=40 hivel=42  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=166208 loop_end=303432
+<region> sample=HQSAW34 35-AN2R.wav key=48 lokey=0 hikey=127 lovel=37 hivel=39  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=279687 loop_end=416879
+<region> sample=HQSAW32 33-G8I8.wav key=48 lokey=0 hikey=127 lovel=34 hivel=36  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=280281 loop_end=381157
+<region> sample=HQSAW30 32-IKL6.wav key=48 lokey=0 hikey=127 lovel=32 hivel=33  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=160694 loop_end=412973
+<region> sample=HQSAW28 29-GHAX.wav key=48 lokey=0 hikey=127 lovel=29 hivel=31  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=123352 loop_end=212857
+<region> sample=HQSAW25 27-H58I.wav key=48 lokey=0 hikey=127 lovel=26 hivel=28  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=113892 loop_end=207133
+<region> sample=HQSAW22 24-S5DJ.wav key=48 lokey=0 hikey=127 lovel=23 hivel=25  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=262826 loop_end=357421
+<region> sample=HQSAW20 21-SHYS.wav key=48 lokey=0 hikey=127 lovel=20 hivel=22  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=284056 loop_end=381706
+<region> sample=HQSAW14 16-4JLO.wav key=48 lokey=0 hikey=127 lovel=14 hivel=16  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=28095 loop_end=118248
+<region> sample=HQSAW17 19-X81Y.wav key=48 lokey=0 hikey=127 lovel=17 hivel=19  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=131614 loop_end=221451
+<region> sample=HQSAW12 13-OC9A.wav key=48 lokey=0 hikey=127 lovel=11 hivel=13  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=75999 loop_end=169892
+<region> sample=HQSAW9 11-JD87.wav key=48 lokey=0 hikey=127 lovel=8 hivel=10  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=281651 loop_end=366392
+<region> sample=HQSAW6 8-GH1S.wav key=48 lokey=0 hikey=127 lovel=5 hivel=7  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=183411 loop_end=266099
+<region> sample=HQSAW4 5-9TIT.wav key=48 lokey=0 hikey=127 lovel=2 hivel=4  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=129779 loop_end=221255
+<region> sample=HQSAW1 3-E5XI.wav key=48 lokey=0 hikey=127 lovel=0 hivel=1  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=259387 loop_end=338637

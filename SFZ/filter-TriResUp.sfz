@@ -1,0 +1,15 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - TriResUp.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Samples/TriResUp/
+
+<group>        // Group
+<region> sample=triresup-C1-127-12T3.wav key=48 lokey=0 hikey=127 lovel=112 hivel=127  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=455507 loop_end=580308
+<region> sample=triresup-C1-16-RBN4.wav key=48 lokey=0 hikey=127 lovel=0 hivel=15  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=462699 loop_end=580244
+<region> sample=triresup-C1-95-3JKH.wav key=48 lokey=0 hikey=127 lovel=80 hivel=95  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=355862 loop_end=535717
+<region> sample=triresup-C1-79-NR2A.wav key=48 lokey=0 hikey=127 lovel=64 hivel=79  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=415040 loop_end=562750
+<region> sample=triresup-C1-32-9LKM.wav key=48 lokey=0 hikey=127 lovel=16 hivel=31  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=458981 loop_end=574517
+<region> sample=triresup-C1-64-HIIO.wav key=48 lokey=0 hikey=127 lovel=48 hivel=63  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=356170 loop_end=472084
+<region> sample=triresup-C1-48-BGHG.wav key=48 lokey=0 hikey=127 lovel=32 hivel=47  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=456190 loop_end=571746
+<region> sample=triresup-C1-111-YVD4.wav key=48 lokey=0 hikey=127 lovel=96 hivel=111  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=209409 loop_end=327587

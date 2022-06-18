@@ -1,0 +1,15 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - NoiseTri.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Samples/NoiseTri/
+
+<group>        // Group
+<region> sample=noisetri-white-C1-16-DRN9.wav key=36 lokey=0 hikey=127 lovel=0 hivel=15  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=459692 loop_end=576220
+<region> sample=noisetri-white-C1-48-VSU1.wav key=36 lokey=0 hikey=127 lovel=32 hivel=47  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=270154 loop_end=390984
+<region> sample=noisetri-white-C1-111-U9VW.wav key=36 lokey=0 hikey=127 lovel=96 hivel=111  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=112329 loop_end=572412
+<region> sample=noisetri-white-C1-127-VSYI.wav key=36 lokey=0 hikey=127 lovel=112 hivel=127  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=142116 loop_end=548771
+<region> sample=noisetri-white-C1-64-7MVM.wav key=36 lokey=0 hikey=127 lovel=48 hivel=63  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=351118 loop_end=489799
+<region> sample=noisetri-white-C1-79-MMKY.wav key=36 lokey=0 hikey=127 lovel=64 hivel=79  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=283033 loop_end=494356
+<region> sample=noisetri-white-C1-95-4I05.wav key=36 lokey=0 hikey=127 lovel=80 hivel=95  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=143371 loop_end=285870
+<region> sample=noisetri-white-C1-32-Z6UJ.wav key=36 lokey=0 hikey=127 lovel=16 hivel=31  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=388110 loop_end=569051

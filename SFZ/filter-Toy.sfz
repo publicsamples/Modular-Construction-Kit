@@ -1,0 +1,31 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Toy.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Samples/Toy/
+
+<group>        // Group
+<region> sample=toyf69 72-WD2E.wav key=48 lokey=0 hikey=127 lovel=90 hivel=95  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=251226 loop_end=399663
+<region> sample=toyf89 92-XJZE.wav key=48 lokey=0 hikey=127 lovel=117 hivel=121  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=225138 loop_end=342896
+<region> sample=toyf65 68-90RS.wav key=48 lokey=0 hikey=127 lovel=85 hivel=89  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=232538 loop_end=328408
+<region> sample=toyf61 64-UU0T.wav key=48 lokey=0 hikey=127 lovel=80 hivel=84  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=201417 loop_end=289482
+<region> sample=toyf57 60-ZE57.wav key=48 lokey=0 hikey=127 lovel=74 hivel=79  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=179120 loop_end=323556
+<region> sample=toyf49 52-KBVY.wav key=48 lokey=0 hikey=127 lovel=64 hivel=68  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=58823 loop_end=144865
+<region> sample=toyf53 56-6LFO.wav key=48 lokey=0 hikey=127 lovel=69 hivel=73  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=262345 loop_end=358639
+<region> sample=toyf41 44-G3YL.wav key=48 lokey=0 hikey=127 lovel=53 hivel=57  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=237999 loop_end=414112
+<region> sample=toyf45 48-0H5J.wav key=48 lokey=0 hikey=127 lovel=58 hivel=63  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=75883 loop_end=210061
+<region> sample=toyf37 40-ZTF3.wav key=48 lokey=0 hikey=127 lovel=48 hivel=52  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=5041 loop_end=90085
+<region> sample=toyf29 32-SBPR.wav key=48 lokey=0 hikey=127 lovel=37 hivel=41  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=260038 loop_end=416705
+<region> sample=toyf33 36-PIW0.wav key=48 lokey=0 hikey=127 lovel=42 hivel=47  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=204229 loop_end=416220
+<region> sample=toyf77 80-S633.wav key=48 lokey=0 hikey=127 lovel=101 hivel=105  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=89000 loop_end=207353
+<region> sample=toyf25 28-1SQF.wav key=48 lokey=0 hikey=127 lovel=32 hivel=36  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=190147 loop_end=298066
+<region> sample=toyf21 24-VHMD.wav key=48 lokey=0 hikey=127 lovel=26 hivel=31  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=260003 loop_end=420280
+<region> sample=toyf17 20-L9LH.wav key=48 lokey=0 hikey=127 lovel=21 hivel=25  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=53636 loop_end=151920
+<region> sample=toyf85 88-FBVG.wav key=48 lokey=0 hikey=127 lovel=112 hivel=116  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=95120 loop_end=405439
+<region> sample=toyf93 96-5UCP.wav key=48 lokey=0 hikey=127 lovel=122 hivel=127  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=184169 loop_end=274246
+<region> sample=toyf13 16-ZU1G.wav key=48 lokey=0 hikey=127 lovel=16 hivel=20  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=331669 loop_end=417121
+<region> sample=toyf81 84-AFKX.wav key=48 lokey=0 hikey=127 lovel=106 hivel=111  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=265636 loop_end=350691
+<region> sample=toyf9 12-42YD.wav key=48 lokey=0 hikey=127 lovel=10 hivel=15  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=239449 loop_end=386872
+<region> sample=toyf73 76-AX5Z.wav key=48 lokey=0 hikey=127 lovel=96 hivel=100  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=176091 loop_end=411590
+<region> sample=toyf5 8-W5ZS.wav key=48 lokey=0 hikey=127 lovel=5 hivel=9  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=266756 loop_end=352803
+<region> sample=toyf1 4-DJGM.wav key=48 lokey=0 hikey=127 lovel=0 hivel=4  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=211313 loop_end=294336

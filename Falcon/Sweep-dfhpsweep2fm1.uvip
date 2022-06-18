@@ -1,0 +1,593 @@
+<UVI4>
+    <Program Name="Program" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="dfhpsweep2fm1.exs" TransposeOctaves="0" TransposeSemiTones="0" OutputName="" Polyphony="16" NotePolyphony="0" ProgramPath="/Users/rick/Music/Audio Music Apps/Sampler Instruments/scrubz/dfhpsweep2fm1.exs" LoopProgram="0" Streaming="1">
+        <Mappers>
+            <ControlSignalMapper Name="Mapper 0" Min="0" Max="1" Integer="0" Discrete="0" DisplayName="Mapper 0">1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 0.982857 0.965714 0.942857 0.902857 0.874286 0.834286 0.811429 0.765714 0.737143 0.708571 0.674286 0.645714 0.611429 0.577143 0.508571 0.474286 0.445714 0.411429 0.382857 0.325714 0.297143 0.268571 0.200000 0.171429 0.137143 0.108571 0.045714 0.017143 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</ControlSignalMapper>
+            <ControlSignalMapper Name="Mapper 1" Min="0" Max="1" Integer="0" Discrete="0" DisplayName="Mapper 1">0.028571 0.080000 0.131429 0.188571 0.251429 0.285714 0.320000 0.365714 0.428571 0.474286 0.514286 0.554286 0.600000 0.645714 0.685714 0.720000 0.754286 0.800000 0.834286 0.857143 0.885714 0.914286 0.977143 0.982857 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 0.988571 0.965714 0.920000 0.874286 0.834286 0.782857 0.754286 0.702857 0.651429 0.594286 0.548571 0.502857 0.445714 0.394286 0.360000 0.285714 0.222857 0.148571 0.085714 0.040000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</ControlSignalMapper>
+            <ControlSignalMapper Name="Mapper 2" Min="0" Max="1" Integer="0" Discrete="0" DisplayName="Mapper 2">0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.022857 0.040000 0.051429 0.068571 0.051429 0.080000 0.102857 0.120000 0.165714 0.188571 0.222857 0.245714 0.274286 0.302857 0.331429 0.354286 0.371429 0.405714 0.434286 0.462857 0.485714 0.502857 0.520000 0.542857 0.565714 0.594286 0.617143 0.651429 0.680000 0.702857 0.731429 0.765714 0.794286 0.857143 0.897143 0.925714 0.960000 0.988571 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 0.960000 0.942857 0.920000 0.897143 0.834286 0.788571 0.748571 0.714286 0.674286 0.645714 0.617143 0.600000 0.565714 0.537143 0.508571 0.457143 0.417143 0.394286 0.331429 0.291429 0.245714 0.200000 0.137143 0.097143 0.051429 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</ControlSignalMapper>
+            <ControlSignalMapper Name="Mapper 3" Min="0" Max="1" Integer="0" Discrete="0" DisplayName="Mapper 3">0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.040000 0.080000 0.137143 0.194286 0.234286 0.280000 0.331429 0.382857 0.417143 0.457143 0.497143 0.531429 0.565714 0.605714 0.634286 0.674286 0.714286 0.748571 0.794286 0.828571 0.862857 0.960000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 0.965714 0.937143 0.914286 0.880000 0.845714 0.805714 0.765714 0.737143 0.685714 0.657143 0.605714 0.525714 0.491429 0.422857 0.388571 0.354286 0.302857 0.240000 0.171429 0.131429 0.062857 0.040000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</ControlSignalMapper>
+            <ControlSignalMapper Name="Mapper 4" Min="0" Max="1" Integer="0" Discrete="0" DisplayName="Mapper 4">0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.040000 0.080000 0.137143 0.194286 0.268571 0.325714 0.365714 0.411429 0.485714 0.542857 0.577143 0.617143 0.691429 0.777143 0.817143 0.891429 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000</ControlSignalMapper>
+        </Mappers>
+        <ControlSignalSources>
+            <ConstantModulation Name="Macro 1" DisplayName="Macro 1" Bypass="0" Bipolar="0" Style="0" Value="0.606094"/>
+        </ControlSignalSources>
+        <Layers>
+            <Layer Name="Layer 0" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" Mute="0" MidiMute="0" Solo="0" DisplayName="Drag&amp;Drop 2" OutputName="" LowKey="0" HighKey="127" CustomPolyphony="0" PlayMode="0" PortamentoTime="0.029999999" PortamentoCurve="0" PortamentoMode="0" NumVoicesPerNote="1" VelocityCurve="0">
+                <Properties Color="ff02b0ff"/>
+                <ControlSignalSources/>
+                <BusRouters/>
+                <Keygroups>
+                    <Keygroup Name="Keygroup 0" Bypass="0" BypassInsertFX="0" Gain="0.89918339" Pan="0" DisplayName="dfhpsweep2fm1-C5-V127-X53A" OutputName="" ExclusiveGroup="0" LowKey="79" HighKey="127" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="-25" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1.0000013e-20" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0.20712766" AttackCurve="0.5" HoldTime="10" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="0.00024800064" ReleaseTime="0.36081848" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.00989604" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SuperVPScrub Name="Oscillator" Position="0.31718749" Speed="0" Direction="1" WindowOverlap="4" WindowSize="92" SpectrumOversampling="0" TransientPreservation="1" ShapeInvariant="0" EnvelopePreservation="0" PreserveStereo="0" Remixing="0" SinMix="1" NoiseMix="1" TransientMix="1" Bypass="0" CoarseTune="0" FineTune="0" Gain="0" Pitch="0" NoteTracking="1" BaseNote="84" DisplayName="Oscillator 1" SamplePath="./dfhpsweep2fm1/dfhpsweep2fm1-C5-V127-X53A.aif" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="174" Stop="330104" PlayDirection="0"/>
+                            </SuperVPScrub>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 1" Bypass="0" BypassInsertFX="0" Gain="0.89918339" Pan="0" DisplayName="dfhpsweep2fm1-C3-V127-TEXJ" OutputName="" ExclusiveGroup="0" LowKey="55" HighKey="66" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="-25" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1.0000013e-20" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0.20712766" AttackCurve="0.5" HoldTime="10" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="0.00024800064" ReleaseTime="0.36081848" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.00989604" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SuperVPScrub Name="Oscillator" Position="0.31718749" Speed="0" Direction="1" WindowOverlap="4" WindowSize="92" SpectrumOversampling="0" TransientPreservation="1" ShapeInvariant="0" EnvelopePreservation="0" PreserveStereo="0" Remixing="0" SinMix="1" NoiseMix="1" TransientMix="1" Bypass="0" CoarseTune="0" FineTune="0" Gain="0" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./dfhpsweep2fm1/dfhpsweep2fm1-C3-V127-TEXJ.aif" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="121" Stop="330613" PlayDirection="0"/>
+                            </SuperVPScrub>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 2" Bypass="0" BypassInsertFX="0" Gain="0.89918339" Pan="0" DisplayName="dfhpsweep2fm1-C2-V127-OI68" OutputName="" ExclusiveGroup="0" LowKey="43" HighKey="54" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="-25" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1.0000013e-20" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0.20712766" AttackCurve="0.5" HoldTime="10" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="0.00024800064" ReleaseTime="0.36081848" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.00989604" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SuperVPScrub Name="Oscillator" Position="0.31718749" Speed="0" Direction="1" WindowOverlap="4" WindowSize="92" SpectrumOversampling="0" TransientPreservation="1" ShapeInvariant="0" EnvelopePreservation="0" PreserveStereo="0" Remixing="0" SinMix="1" NoiseMix="1" TransientMix="1" Bypass="0" CoarseTune="0" FineTune="0" Gain="0" Pitch="0" NoteTracking="1" BaseNote="48" DisplayName="Oscillator 1" SamplePath="./dfhpsweep2fm1/dfhpsweep2fm1-C2-V127-OI68.aif" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="329583" PlayDirection="0"/>
+                            </SuperVPScrub>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 3" Bypass="0" BypassInsertFX="0" Gain="0.89918339" Pan="0" DisplayName="dfhpsweep2fm1-C1-V127-UMYX" OutputName="" ExclusiveGroup="0" LowKey="31" HighKey="42" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="-25" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1.0000013e-20" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0.20712766" AttackCurve="0.5" HoldTime="10" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="0.00024800064" ReleaseTime="0.36081848" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.00989604" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SuperVPScrub Name="Oscillator" Position="0.31718749" Speed="0" Direction="1" WindowOverlap="4" WindowSize="92" SpectrumOversampling="0" TransientPreservation="1" ShapeInvariant="0" EnvelopePreservation="0" PreserveStereo="0" Remixing="0" SinMix="1" NoiseMix="1" TransientMix="1" Bypass="0" CoarseTune="0" FineTune="0" Gain="0" Pitch="0" NoteTracking="1" BaseNote="36" DisplayName="Oscillator 1" SamplePath="./dfhpsweep2fm1/dfhpsweep2fm1-C1-V127-UMYX.aif" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="82" Stop="330067" PlayDirection="0"/>
+                            </SuperVPScrub>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 4" Bypass="0" BypassInsertFX="0" Gain="0.89918339" Pan="0" DisplayName="dfhpsweep2fm1-C0-V127-T0DW" OutputName="" ExclusiveGroup="0" LowKey="6" HighKey="30" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="-25" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1.0000013e-20" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0.20712766" AttackCurve="0.5" HoldTime="10" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="0.00024800064" ReleaseTime="0.36081848" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.00989604" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SuperVPScrub Name="Oscillator" Position="0.31718749" Speed="0" Direction="1" WindowOverlap="4" WindowSize="92" SpectrumOversampling="0" TransientPreservation="1" ShapeInvariant="0" EnvelopePreservation="0" PreserveStereo="0" Remixing="0" SinMix="1" NoiseMix="1" TransientMix="1" Bypass="0" CoarseTune="0" FineTune="0" Gain="0" Pitch="0" NoteTracking="1" BaseNote="24" DisplayName="Oscillator 1" SamplePath="./dfhpsweep2fm1/dfhpsweep2fm1-C0-V127-T0DW.aif" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="169" Stop="330925" PlayDirection="0"/>
+                            </SuperVPScrub>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 5" Bypass="0" BypassInsertFX="0" Gain="0.89918339" Pan="0" DisplayName="dfhpsweep2fm1-C4-V127-PW7E" OutputName="" ExclusiveGroup="0" LowKey="67" HighKey="78" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="-25" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1.0000013e-20" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0.20712766" AttackCurve="0.5" HoldTime="10" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="0.00024800064" ReleaseTime="0.36081848" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.00989604" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SuperVPScrub Name="Oscillator" Position="0.31718749" Speed="0" Direction="1" WindowOverlap="4" WindowSize="92" SpectrumOversampling="0" TransientPreservation="1" ShapeInvariant="0" EnvelopePreservation="0" PreserveStereo="0" Remixing="0" SinMix="1" NoiseMix="1" TransientMix="1" Bypass="0" CoarseTune="0" FineTune="0" Gain="0" Pitch="0" NoteTracking="1" BaseNote="72" DisplayName="Oscillator 1" SamplePath="./dfhpsweep2fm1/dfhpsweep2fm1-C4-V127-PW7E.aif" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="170" Stop="329684" PlayDirection="0"/>
+                            </SuperVPScrub>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 6" Bypass="0" BypassInsertFX="0" Gain="0.89918339" Pan="0" DisplayName="dfhpsweep2fm2-C1-V127-67YG" OutputName="" ExclusiveGroup="0" LowKey="31" HighKey="42" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1.0000013e-20" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0.20712766" AttackCurve="0.5" HoldTime="10" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="0.00024800064" ReleaseTime="0.36081848" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.00989604" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SuperVPScrub Name="Oscillator" Position="0.31718749" Speed="0" Direction="1" WindowOverlap="4" WindowSize="92" SpectrumOversampling="0" TransientPreservation="1" ShapeInvariant="0" EnvelopePreservation="0" PreserveStereo="0" Remixing="0" SinMix="1" NoiseMix="1" TransientMix="1" Bypass="0" CoarseTune="0" FineTune="0" Gain="0" Pitch="0" NoteTracking="1" BaseNote="36" DisplayName="Oscillator 1" SamplePath="./dfhpsweep2fm1/dfhpsweep2fm2-C1-V127-67YG.aif" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="247" Stop="329980" PlayDirection="0"/>
+                            </SuperVPScrub>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 7" Bypass="0" BypassInsertFX="0" Gain="0.89918339" Pan="0" DisplayName="dfhpsweep2fm2-C5-V127-LBWZ" OutputName="" ExclusiveGroup="0" LowKey="79" HighKey="127" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1.0000013e-20" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0.20712766" AttackCurve="0.5" HoldTime="10" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="0.00024800064" ReleaseTime="0.36081848" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.00989604" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SuperVPScrub Name="Oscillator" Position="0.31718749" Speed="0" Direction="1" WindowOverlap="4" WindowSize="92" SpectrumOversampling="0" TransientPreservation="1" ShapeInvariant="0" EnvelopePreservation="0" PreserveStereo="0" Remixing="0" SinMix="1" NoiseMix="1" TransientMix="1" Bypass="0" CoarseTune="0" FineTune="0" Gain="0" Pitch="0" NoteTracking="1" BaseNote="84" DisplayName="Oscillator 1" SamplePath="./dfhpsweep2fm1/dfhpsweep2fm2-C5-V127-LBWZ.aif" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="177" Stop="329850" PlayDirection="0"/>
+                            </SuperVPScrub>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 8" Bypass="0" BypassInsertFX="0" Gain="0.89918339" Pan="0" DisplayName="dfhpsweep2fm2-C4-V127-LWUC" OutputName="" ExclusiveGroup="0" LowKey="67" HighKey="78" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1.0000013e-20" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0.20712766" AttackCurve="0.5" HoldTime="10" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="0.00024800064" ReleaseTime="0.36081848" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.00989604" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SuperVPScrub Name="Oscillator" Position="0.31718749" Speed="0" Direction="1" WindowOverlap="4" WindowSize="92" SpectrumOversampling="0" TransientPreservation="1" ShapeInvariant="0" EnvelopePreservation="0" PreserveStereo="0" Remixing="0" SinMix="1" NoiseMix="1" TransientMix="1" Bypass="0" CoarseTune="0" FineTune="0" Gain="0" Pitch="0" NoteTracking="1" BaseNote="72" DisplayName="Oscillator 1" SamplePath="./dfhpsweep2fm1/dfhpsweep2fm2-C4-V127-LWUC.aif" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="162" Stop="329863" PlayDirection="0"/>
+                            </SuperVPScrub>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 9" Bypass="0" BypassInsertFX="0" Gain="0.89918339" Pan="0" DisplayName="dfhpsweep2fm2-C3-V127-FSVS" OutputName="" ExclusiveGroup="0" LowKey="55" HighKey="66" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1.0000013e-20" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0.20712766" AttackCurve="0.5" HoldTime="10" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="0.00024800064" ReleaseTime="0.36081848" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.00989604" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SuperVPScrub Name="Oscillator" Position="0.31718749" Speed="0" Direction="1" WindowOverlap="4" WindowSize="92" SpectrumOversampling="0" TransientPreservation="1" ShapeInvariant="0" EnvelopePreservation="0" PreserveStereo="0" Remixing="0" SinMix="1" NoiseMix="1" TransientMix="1" Bypass="0" CoarseTune="0" FineTune="0" Gain="0" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./dfhpsweep2fm1/dfhpsweep2fm2-C3-V127-FSVS.aif" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="330098" PlayDirection="0"/>
+                            </SuperVPScrub>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 10" Bypass="0" BypassInsertFX="0" Gain="0.89918339" Pan="0" DisplayName="dfhpsweep2fm2-C2-V127-TDBE" OutputName="" ExclusiveGroup="0" LowKey="43" HighKey="54" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1.0000013e-20" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0.20712766" AttackCurve="0.5" HoldTime="10" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="0.00024800064" ReleaseTime="0.36081848" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.00989604" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SuperVPScrub Name="Oscillator" Position="0.31718749" Speed="0" Direction="1" WindowOverlap="4" WindowSize="92" SpectrumOversampling="0" TransientPreservation="1" ShapeInvariant="0" EnvelopePreservation="0" PreserveStereo="0" Remixing="0" SinMix="1" NoiseMix="1" TransientMix="1" Bypass="0" CoarseTune="0" FineTune="0" Gain="0" Pitch="0" NoteTracking="1" BaseNote="48" DisplayName="Oscillator 1" SamplePath="./dfhpsweep2fm1/dfhpsweep2fm2-C2-V127-TDBE.aif" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="239" Stop="330580" PlayDirection="0"/>
+                            </SuperVPScrub>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 11" Bypass="0" BypassInsertFX="0" Gain="0.89918339" Pan="0" DisplayName="dfhpsweep2fm2-C0-V127-80GE" OutputName="" ExclusiveGroup="0" LowKey="6" HighKey="30" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1.0000013e-20" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0.20712766" AttackCurve="0.5" HoldTime="10" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="0.00024800064" ReleaseTime="0.36081848" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.00989604" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SuperVPScrub Name="Oscillator" Position="0.31718749" Speed="0" Direction="1" WindowOverlap="4" WindowSize="92" SpectrumOversampling="0" TransientPreservation="1" ShapeInvariant="0" EnvelopePreservation="0" PreserveStereo="0" Remixing="0" SinMix="1" NoiseMix="1" TransientMix="1" Bypass="0" CoarseTune="0" FineTune="0" Gain="0" Pitch="0" NoteTracking="1" BaseNote="24" DisplayName="Oscillator 1" SamplePath="./dfhpsweep2fm1/dfhpsweep2fm2-C0-V127-80GE.aif" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="112" Stop="330101" PlayDirection="0"/>
+                            </SuperVPScrub>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 12" Bypass="0" BypassInsertFX="0" Gain="0.89918339" Pan="0" DisplayName="dfhpsweep2fm3-C5-V127-F03D" OutputName="" ExclusiveGroup="0" LowKey="79" HighKey="127" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1.0000013e-20" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0.20712766" AttackCurve="0.5" HoldTime="10" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="0.00024800064" ReleaseTime="0.36081848" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.00989604" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SuperVPScrub Name="Oscillator" Position="0.31718749" Speed="0" Direction="1" WindowOverlap="4" WindowSize="92" SpectrumOversampling="0" TransientPreservation="1" ShapeInvariant="0" EnvelopePreservation="0" PreserveStereo="0" Remixing="0" SinMix="1" NoiseMix="1" TransientMix="1" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.4113709" Pitch="0" NoteTracking="1" BaseNote="84" DisplayName="Oscillator 1" SamplePath="./dfhpsweep2fm1/dfhpsweep2fm3-C5-V127-F03D.aif" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="16" Stop="329961" PlayDirection="0"/>
+                            </SuperVPScrub>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 13" Bypass="0" BypassInsertFX="0" Gain="0.89918339" Pan="0" DisplayName="dfhpsweep2fm3-C1-V127-AFXK" OutputName="" ExclusiveGroup="0" LowKey="31" HighKey="42" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1.0000013e-20" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0.20712766" AttackCurve="0.5" HoldTime="10" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="0.00024800064" ReleaseTime="0.36081848" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.00989604" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SuperVPScrub Name="Oscillator" Position="0.31718749" Speed="0" Direction="1" WindowOverlap="4" WindowSize="92" SpectrumOversampling="0" TransientPreservation="1" ShapeInvariant="0" EnvelopePreservation="0" PreserveStereo="0" Remixing="0" SinMix="1" NoiseMix="1" TransientMix="1" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.4113709" Pitch="0" NoteTracking="1" BaseNote="36" DisplayName="Oscillator 1" SamplePath="./dfhpsweep2fm1/dfhpsweep2fm3-C1-V127-AFXK.aif" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="129" Stop="330487" PlayDirection="0"/>
+                            </SuperVPScrub>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 14" Bypass="0" BypassInsertFX="0" Gain="0.89918339" Pan="0" DisplayName="dfhpsweep2fm3-C4-V127-0D7J" OutputName="" ExclusiveGroup="0" LowKey="67" HighKey="78" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1.0000013e-20" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0.20712766" AttackCurve="0.5" HoldTime="10" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="0.00024800064" ReleaseTime="0.36081848" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.00989604" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SuperVPScrub Name="Oscillator" Position="0.31718749" Speed="0" Direction="1" WindowOverlap="4" WindowSize="92" SpectrumOversampling="0" TransientPreservation="1" ShapeInvariant="0" EnvelopePreservation="0" PreserveStereo="0" Remixing="0" SinMix="1" NoiseMix="1" TransientMix="1" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.4113709" Pitch="0" NoteTracking="1" BaseNote="72" DisplayName="Oscillator 1" SamplePath="./dfhpsweep2fm1/dfhpsweep2fm3-C4-V127-0D7J.aif" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="37" Stop="330029" PlayDirection="0"/>
+                            </SuperVPScrub>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 15" Bypass="0" BypassInsertFX="0" Gain="0.89918339" Pan="0" DisplayName="dfhpsweep2fm3-C3-V127-TY2C" OutputName="" ExclusiveGroup="0" LowKey="55" HighKey="66" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1.0000013e-20" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0.20712766" AttackCurve="0.5" HoldTime="10" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="0.00024800064" ReleaseTime="0.36081848" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.00989604" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SuperVPScrub Name="Oscillator" Position="0.31718749" Speed="0" Direction="1" WindowOverlap="4" WindowSize="92" SpectrumOversampling="0" TransientPreservation="1" ShapeInvariant="0" EnvelopePreservation="0" PreserveStereo="0" Remixing="0" SinMix="1" NoiseMix="1" TransientMix="1" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.4113709" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./dfhpsweep2fm1/dfhpsweep2fm3-C3-V127-TY2C.aif" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="139" Stop="329842" PlayDirection="0"/>
+                            </SuperVPScrub>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 16" Bypass="0" BypassInsertFX="0" Gain="0.89918339" Pan="0" DisplayName="dfhpsweep2fm3-C0-V127-0I32" OutputName="" ExclusiveGroup="0" LowKey="6" HighKey="30" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1.0000013e-20" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0.20712766" AttackCurve="0.5" HoldTime="10" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="0.00024800064" ReleaseTime="0.36081848" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.00989604" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SuperVPScrub Name="Oscillator" Position="0.31718749" Speed="0" Direction="1" WindowOverlap="4" WindowSize="92" SpectrumOversampling="0" TransientPreservation="1" ShapeInvariant="0" EnvelopePreservation="0" PreserveStereo="0" Remixing="0" SinMix="1" NoiseMix="1" TransientMix="1" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.4113709" Pitch="0" NoteTracking="1" BaseNote="24" DisplayName="Oscillator 1" SamplePath="./dfhpsweep2fm1/dfhpsweep2fm3-C0-V127-0I32.aif" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="133" Stop="330475" PlayDirection="0"/>
+                            </SuperVPScrub>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 17" Bypass="0" BypassInsertFX="0" Gain="0.89918339" Pan="0" DisplayName="dfhpsweep2fm3-C2-V127-TAYO" OutputName="" ExclusiveGroup="0" LowKey="43" HighKey="54" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1.0000013e-20" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0.20712766" AttackCurve="0.5" HoldTime="10" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="0.00024800064" ReleaseTime="0.36081848" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.00989604" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SuperVPScrub Name="Oscillator" Position="0.31718749" Speed="0" Direction="1" WindowOverlap="4" WindowSize="92" SpectrumOversampling="0" TransientPreservation="1" ShapeInvariant="0" EnvelopePreservation="0" PreserveStereo="0" Remixing="0" SinMix="1" NoiseMix="1" TransientMix="1" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.4113709" Pitch="0" NoteTracking="1" BaseNote="48" DisplayName="Oscillator 1" SamplePath="./dfhpsweep2fm1/dfhpsweep2fm3-C2-V127-TAYO.aif" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="329669" PlayDirection="0"/>
+                            </SuperVPScrub>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 18" Bypass="0" BypassInsertFX="0" Gain="0.89918339" Pan="0" DisplayName="dfhpsweep2fm4-C3-V127-IHYB" OutputName="" ExclusiveGroup="0" LowKey="55" HighKey="66" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1.0000013e-20" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0.20712766" AttackCurve="0.5" HoldTime="10" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="0.00024800064" ReleaseTime="0.36081848" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.00989604" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SuperVPScrub Name="Oscillator" Position="0.31718749" Speed="0" Direction="1" WindowOverlap="4" WindowSize="92" SpectrumOversampling="0" TransientPreservation="1" ShapeInvariant="0" EnvelopePreservation="0" PreserveStereo="0" Remixing="0" SinMix="1" NoiseMix="1" TransientMix="1" Bypass="0" CoarseTune="0" FineTune="0" Gain="1.9952623" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./dfhpsweep2fm1/dfhpsweep2fm4-C3-V127-IHYB.aif" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 3" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="198" Stop="330429" PlayDirection="0"/>
+                            </SuperVPScrub>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 19" Bypass="0" BypassInsertFX="0" Gain="0.89918339" Pan="0" DisplayName="dfhpsweep2fm4-C4-V127-2WRD" OutputName="" ExclusiveGroup="0" LowKey="67" HighKey="78" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1.0000013e-20" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0.20712766" AttackCurve="0.5" HoldTime="10" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="0.00024800064" ReleaseTime="0.36081848" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.00989604" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SuperVPScrub Name="Oscillator" Position="0.31718749" Speed="0" Direction="1" WindowOverlap="4" WindowSize="92" SpectrumOversampling="0" TransientPreservation="1" ShapeInvariant="0" EnvelopePreservation="0" PreserveStereo="0" Remixing="0" SinMix="1" NoiseMix="1" TransientMix="1" Bypass="0" CoarseTune="0" FineTune="0" Gain="1.9952623" Pitch="0" NoteTracking="1" BaseNote="72" DisplayName="Oscillator 1" SamplePath="./dfhpsweep2fm1/dfhpsweep2fm4-C4-V127-2WRD.aif" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 3" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="271" Stop="330409" PlayDirection="0"/>
+                            </SuperVPScrub>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 20" Bypass="0" BypassInsertFX="0" Gain="0.89918339" Pan="0" DisplayName="dfhpsweep2fm4-C5-V127-GYME" OutputName="" ExclusiveGroup="0" LowKey="79" HighKey="127" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1.0000013e-20" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0.20712766" AttackCurve="0.5" HoldTime="10" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="0.00024800064" ReleaseTime="0.36081848" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.00989604" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SuperVPScrub Name="Oscillator" Position="0.31718749" Speed="0" Direction="1" WindowOverlap="4" WindowSize="92" SpectrumOversampling="0" TransientPreservation="1" ShapeInvariant="0" EnvelopePreservation="0" PreserveStereo="0" Remixing="0" SinMix="1" NoiseMix="1" TransientMix="1" Bypass="0" CoarseTune="0" FineTune="0" Gain="1.9952623" Pitch="0" NoteTracking="1" BaseNote="84" DisplayName="Oscillator 1" SamplePath="./dfhpsweep2fm1/dfhpsweep2fm4-C5-V127-GYME.aif" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 3" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="196" Stop="329918" PlayDirection="0"/>
+                            </SuperVPScrub>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 21" Bypass="0" BypassInsertFX="0" Gain="0.89918339" Pan="0" DisplayName="dfhpsweep2fm4-C2-V127-75C6" OutputName="" ExclusiveGroup="0" LowKey="43" HighKey="54" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1.0000013e-20" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0.20712766" AttackCurve="0.5" HoldTime="10" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="0.00024800064" ReleaseTime="0.36081848" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.00989604" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SuperVPScrub Name="Oscillator" Position="0.31718749" Speed="0" Direction="1" WindowOverlap="4" WindowSize="92" SpectrumOversampling="0" TransientPreservation="1" ShapeInvariant="0" EnvelopePreservation="0" PreserveStereo="0" Remixing="0" SinMix="1" NoiseMix="1" TransientMix="1" Bypass="0" CoarseTune="0" FineTune="0" Gain="1.9952623" Pitch="0" NoteTracking="1" BaseNote="48" DisplayName="Oscillator 1" SamplePath="./dfhpsweep2fm1/dfhpsweep2fm4-C2-V127-75C6.aif" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 3" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="317" Stop="330007" PlayDirection="0"/>
+                            </SuperVPScrub>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 22" Bypass="0" BypassInsertFX="0" Gain="0.89918339" Pan="0" DisplayName="dfhpsweep2fm4-C1-V127-5I3B" OutputName="" ExclusiveGroup="0" LowKey="31" HighKey="42" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1.0000013e-20" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0.20712766" AttackCurve="0.5" HoldTime="10" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="0.00024800064" ReleaseTime="0.36081848" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.00989604" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SuperVPScrub Name="Oscillator" Position="0.31718749" Speed="0" Direction="1" WindowOverlap="4" WindowSize="92" SpectrumOversampling="0" TransientPreservation="1" ShapeInvariant="0" EnvelopePreservation="0" PreserveStereo="0" Remixing="0" SinMix="1" NoiseMix="1" TransientMix="1" Bypass="0" CoarseTune="0" FineTune="0" Gain="1.9952623" Pitch="0" NoteTracking="1" BaseNote="36" DisplayName="Oscillator 1" SamplePath="./dfhpsweep2fm1/dfhpsweep2fm4-C1-V127-5I3B.aif" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 3" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="116" Stop="329394" PlayDirection="0"/>
+                            </SuperVPScrub>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 23" Bypass="0" BypassInsertFX="0" Gain="0.89918339" Pan="0" DisplayName="dfhpsweep2fm4-C0-V127-RB9Q" OutputName="" ExclusiveGroup="0" LowKey="6" HighKey="30" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1.0000013e-20" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0.20712766" AttackCurve="0.5" HoldTime="10" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="0.00024800064" ReleaseTime="0.36081848" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.00989604" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SuperVPScrub Name="Oscillator" Position="0.31718749" Speed="0" Direction="1" WindowOverlap="4" WindowSize="92" SpectrumOversampling="0" TransientPreservation="1" ShapeInvariant="0" EnvelopePreservation="0" PreserveStereo="0" Remixing="0" SinMix="1" NoiseMix="1" TransientMix="1" Bypass="0" CoarseTune="0" FineTune="0" Gain="1.9952623" Pitch="0" NoteTracking="1" BaseNote="24" DisplayName="Oscillator 1" SamplePath="./dfhpsweep2fm1/dfhpsweep2fm4-C0-V127-RB9Q.aif" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 3" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="201" Stop="329934" PlayDirection="0"/>
+                            </SuperVPScrub>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 24" Bypass="0" BypassInsertFX="0" Gain="0.89918339" Pan="0" DisplayName="dfhpsweep2fm5-C4-V127-K484" OutputName="" ExclusiveGroup="0" LowKey="67" HighKey="78" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1.0000013e-20" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0.20712766" AttackCurve="0.5" HoldTime="10" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="0.00024800064" ReleaseTime="0.36081848" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.00989604" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SuperVPScrub Name="Oscillator" Position="0.31718749" Speed="0" Direction="1" WindowOverlap="4" WindowSize="92" SpectrumOversampling="0" TransientPreservation="1" ShapeInvariant="0" EnvelopePreservation="0" PreserveStereo="0" Remixing="0" SinMix="1" NoiseMix="1" TransientMix="1" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.061058808" Pitch="0" NoteTracking="1" BaseNote="72" DisplayName="Oscillator 1" SamplePath="./dfhpsweep2fm1/dfhpsweep2fm5-C4-V127-K484.aif" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 4" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="45" Stop="330000" PlayDirection="0"/>
+                            </SuperVPScrub>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 25" Bypass="0" BypassInsertFX="0" Gain="0.89918339" Pan="0" DisplayName="dfhpsweep2fm5-C5-V127-S8WL" OutputName="" ExclusiveGroup="0" LowKey="79" HighKey="127" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1.0000013e-20" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0.20712766" AttackCurve="0.5" HoldTime="10" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="0.00024800064" ReleaseTime="0.36081848" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.00989604" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SuperVPScrub Name="Oscillator" Position="0.31718749" Speed="0" Direction="1" WindowOverlap="4" WindowSize="92" SpectrumOversampling="0" TransientPreservation="1" ShapeInvariant="0" EnvelopePreservation="0" PreserveStereo="0" Remixing="0" SinMix="1" NoiseMix="1" TransientMix="1" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.061058808" Pitch="0" NoteTracking="1" BaseNote="84" DisplayName="Oscillator 1" SamplePath="./dfhpsweep2fm1/dfhpsweep2fm5-C5-V127-S8WL.aif" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 4" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="63" Stop="330073" PlayDirection="0"/>
+                            </SuperVPScrub>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 26" Bypass="0" BypassInsertFX="0" Gain="0.89918339" Pan="0" DisplayName="dfhpsweep2fm5-C3-V127-37DH" OutputName="" ExclusiveGroup="0" LowKey="55" HighKey="66" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1.0000013e-20" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0.20712766" AttackCurve="0.5" HoldTime="10" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="0.00024800064" ReleaseTime="0.36081848" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.00989604" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SuperVPScrub Name="Oscillator" Position="0.31718749" Speed="0" Direction="1" WindowOverlap="4" WindowSize="92" SpectrumOversampling="0" TransientPreservation="1" ShapeInvariant="0" EnvelopePreservation="0" PreserveStereo="0" Remixing="0" SinMix="1" NoiseMix="1" TransientMix="1" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.061058808" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./dfhpsweep2fm1/dfhpsweep2fm5-C3-V127-37DH.aif" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 4" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="189" Stop="329581" PlayDirection="0"/>
+                            </SuperVPScrub>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 27" Bypass="0" BypassInsertFX="0" Gain="0.89918339" Pan="0" DisplayName="dfhpsweep2fm5-C0-V127-9VMM" OutputName="" ExclusiveGroup="0" LowKey="6" HighKey="30" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1.0000013e-20" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0.20712766" AttackCurve="0.5" HoldTime="10" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="0.00024800064" ReleaseTime="0.36081848" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.00989604" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SuperVPScrub Name="Oscillator" Position="0.31718749" Speed="0" Direction="1" WindowOverlap="4" WindowSize="92" SpectrumOversampling="0" TransientPreservation="1" ShapeInvariant="0" EnvelopePreservation="0" PreserveStereo="0" Remixing="0" SinMix="1" NoiseMix="1" TransientMix="1" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.061058808" Pitch="0" NoteTracking="1" BaseNote="24" DisplayName="Oscillator 1" SamplePath="./dfhpsweep2fm1/dfhpsweep2fm5-C0-V127-9VMM.aif" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 4" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="29" Stop="330275" PlayDirection="0"/>
+                            </SuperVPScrub>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 28" Bypass="0" BypassInsertFX="0" Gain="0.89918339" Pan="0" DisplayName="dfhpsweep2fm5-C2-V127-PQ11" OutputName="" ExclusiveGroup="0" LowKey="43" HighKey="54" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1.0000013e-20" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0.20712766" AttackCurve="0.5" HoldTime="10" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="0.00024800064" ReleaseTime="0.36081848" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.00989604" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SuperVPScrub Name="Oscillator" Position="0.31718749" Speed="0" Direction="1" WindowOverlap="4" WindowSize="92" SpectrumOversampling="0" TransientPreservation="1" ShapeInvariant="0" EnvelopePreservation="0" PreserveStereo="0" Remixing="0" SinMix="1" NoiseMix="1" TransientMix="1" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.061058808" Pitch="0" NoteTracking="1" BaseNote="48" DisplayName="Oscillator 1" SamplePath="./dfhpsweep2fm1/dfhpsweep2fm5-C2-V127-PQ11.aif" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 4" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="163" Stop="330768" PlayDirection="0"/>
+                            </SuperVPScrub>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 29" Bypass="0" BypassInsertFX="0" Gain="0.89918339" Pan="0" DisplayName="dfhpsweep2fm5-C1-V127-O20N" OutputName="" ExclusiveGroup="0" LowKey="31" HighKey="42" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Envelope 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Envelope 1" DisplayName="Envelope 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1.0000013e-20" ReleaseTime="0" ReleaseCurve="-0.97000003" VelocityAmount="0.82999998" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <DAHDSR Name="Envelope 2" DisplayName="Envelope 2" Bypass="0" DelayTime="0" AttackTime="0.20712766" AttackCurve="0.5" HoldTime="10" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="0.00024800064" ReleaseTime="0.36081848" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.00989604" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SuperVPScrub Name="Oscillator" Position="0.31718749" Speed="0" Direction="1" WindowOverlap="4" WindowSize="92" SpectrumOversampling="0" TransientPreservation="1" ShapeInvariant="0" EnvelopePreservation="0" PreserveStereo="0" Remixing="0" SinMix="1" NoiseMix="1" TransientMix="1" Bypass="0" CoarseTune="0" FineTune="0" Gain="0.061058808" Pitch="0" NoteTracking="1" BaseNote="36" DisplayName="Oscillator 1" SamplePath="./dfhpsweep2fm1/dfhpsweep2fm5-C1-V127-O20N.aif" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="/uvi/Part 0/Program/Macro 1" Destination="Gain" Mapper="Mapper 4" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="210" Stop="330071" PlayDirection="0"/>
+                            </SuperVPScrub>
+                        </Oscillators>
+                    </Keygroup>
+                </Keygroups>
+            </Layer>
+        </Layers>
+    </Program>
+</UVI4>

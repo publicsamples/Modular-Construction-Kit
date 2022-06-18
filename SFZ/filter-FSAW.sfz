@@ -1,0 +1,56 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - FSAW.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Samples/FSAW/
+
+<group>        // Group
+<region> sample=fsaw35 36-SPK0.wav key=48 lokey=0 hikey=127 lovel=47 hivel=48  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=252800 loop_end=341845
+<region> sample=fsaw63 64-EXS2.wav key=48 lokey=0 hikey=127 lovel=83 hivel=85  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=219042 loop_end=345012
+<region> sample=fsaw83 84-Z44N.wav key=48 lokey=0 hikey=127 lovel=109 hivel=111  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=250820 loop_end=388229
+<region> sample=fsaw87 88-CJ43.wav key=48 lokey=0 hikey=127 lovel=114 hivel=116  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=307132 loop_end=393592
+<region> sample=fsaw73 74-3U1F.wav key=48 lokey=0 hikey=127 lovel=96 hivel=98  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=57580 loop_end=165089
+<region> sample=fsaw61 62-89LK.wav key=48 lokey=0 hikey=127 lovel=80 hivel=82  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=175128 loop_end=264384
+<region> sample=fsaw89 90-CRC8.wav key=48 lokey=0 hikey=127 lovel=117 hivel=119  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=200201 loop_end=404812
+<region> sample=fsaw91 92-OQM5.wav key=48 lokey=0 hikey=127 lovel=120 hivel=121  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=292870 loop_end=409431
+<region> sample=fsaw53 54-XFR3.wav key=48 lokey=0 hikey=127 lovel=70 hivel=72  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=34615 loop_end=137502
+<region> sample=fsaw27 28-F7ZN.wav key=48 lokey=0 hikey=127 lovel=36 hivel=38  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=142960 loop_end=415130
+<region> sample=fsaw65 66-EA8Q.wav key=48 lokey=0 hikey=127 lovel=86 hivel=87  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=214115 loop_end=350271
+<region> sample=fsaw25 26-P5PN.wav key=48 lokey=0 hikey=127 lovel=33 hivel=35  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=42227 loop_end=243793
+<region> sample=fsaw45 46-KFG2.wav key=48 lokey=0 hikey=127 lovel=60 hivel=61  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=147281 loop_end=311143
+<region> sample=fsaw95 96-Z5FR.wav key=48 lokey=0 hikey=127 lovel=125 hivel=127  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=67579 loop_end=159054
+<region> sample=fsaw37 38-FSUE.wav key=48 lokey=0 hikey=127 lovel=49 hivel=51  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=88300 loop_end=199208
+<region> sample=fsaw69 70-QYBI.wav key=48 lokey=0 hikey=127 lovel=91 hivel=93  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=96301 loop_end=193966
+<region> sample=fsaw81 82-0YQG.wav key=48 lokey=0 hikey=127 lovel=107 hivel=108  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=292921 loop_end=383793
+<region> sample=fsaw85 86-WG06.wav key=48 lokey=0 hikey=127 lovel=112 hivel=113  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=74192 loop_end=159046
+<region> sample=fsaw67 68-8DWB.wav key=48 lokey=0 hikey=127 lovel=88 hivel=90  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=33687 loop_end=127128
+<region> sample=fsaw57 58-GMHP.wav key=48 lokey=0 hikey=127 lovel=75 hivel=77  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=268223 loop_end=366713
+<region> sample=fsaw75 76-2WQI.wav key=48 lokey=0 hikey=127 lovel=99 hivel=100  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=229227 loop_end=404138
+<region> sample=fsaw23 24-HKF7.wav key=48 lokey=0 hikey=127 lovel=31 hivel=32  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=80505 loop_end=190621
+<region> sample=fsaw21 22-F6PL.wav key=48 lokey=0 hikey=127 lovel=28 hivel=30  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=69338 loop_end=156779
+<region> sample=fsaw33 34-XX20.wav key=48 lokey=0 hikey=127 lovel=44 hivel=46  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=49759 loop_end=146799
+<region> sample=fsaw51 52-09RO.wav key=48 lokey=0 hikey=127 lovel=67 hivel=69  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=242189 loop_end=406066
+<region> sample=fsaw93 94-OF6Q.wav key=48 lokey=0 hikey=127 lovel=122 hivel=124  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=94221 loop_end=202757
+<region> sample=fsaw71 72-6PW6.wav key=48 lokey=0 hikey=127 lovel=94 hivel=95  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=217895 loop_end=393395
+<region> sample=fsaw47 48-RKP1.wav key=48 lokey=0 hikey=127 lovel=62 hivel=64  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=94466 loop_end=268770
+<region> sample=fsaw19 20-1YKC.wav key=48 lokey=0 hikey=127 lovel=26 hivel=27  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=198253 loop_end=290717
+<region> sample=fsaw17 18-D612.wav key=48 lokey=0 hikey=127 lovel=23 hivel=25  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=93413 loop_end=185875
+<region> sample=fsaw15 16-4TXG.wav key=48 lokey=0 hikey=127 lovel=20 hivel=22  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=39486 loop_end=140568
+<region> sample=fsaw59 60-4U6I.wav key=48 lokey=0 hikey=127 lovel=78 hivel=79  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=239802 loop_end=328860
+<region> sample=fsaw29 30-G7FV.wav key=48 lokey=0 hikey=127 lovel=39 hivel=40  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=234009 loop_end=335106
+<region> sample=fsaw13 14-2RJP.wav key=48 lokey=0 hikey=127 lovel=18 hivel=19  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=276686 loop_end=369150
+<region> sample=fsaw79 80-IJM1.wav key=48 lokey=0 hikey=127 lovel=104 hivel=106  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=171378 loop_end=402846
+<region> sample=fsaw39 40-RVAM.wav key=48 lokey=0 hikey=127 lovel=52 hivel=53  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=35425 loop_end=158362
+<region> sample=fsaw11 12-IGCZ.wav key=48 lokey=0 hikey=127 lovel=15 hivel=17  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=262395 loop_end=355469
+<region> sample=fsaw7 8-2P6V.wav key=48 lokey=0 hikey=127 lovel=10 hivel=12  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=140973 loop_end=241249
+<region> sample=fsaw3 4-HKMB.wav key=48 lokey=0 hikey=127 lovel=5 hivel=6  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=38685 loop_end=127734
+<region> sample=fsaw5 6-VSO7.wav key=48 lokey=0 hikey=127 lovel=7 hivel=9  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=256274 loop_end=345324
+<region> sample=fsaw9 10-JNV5.wav key=48 lokey=0 hikey=127 lovel=13 hivel=14  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=6242 loop_end=140420
+<region> sample=fsaw49 50-KF93.wav key=48 lokey=0 hikey=127 lovel=65 hivel=66  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=108141 loop_end=218252
+<region> sample=fsaw41 42-UM5N.wav key=48 lokey=0 hikey=127 lovel=54 hivel=56  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=208426 loop_end=301498
+<region> sample=fsaw1 4-V5TG.wav key=48 lokey=0 hikey=127 lovel=2 hivel=4  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=254955 loop_end=371687
+<region> sample=fsaw77 78-YQ82.wav key=48 lokey=0 hikey=127 lovel=101 hivel=103  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=245796 loop_end=338871
+<region> sample=fsaw1 2-02JV.wav key=48 lokey=0 hikey=127 lovel=0 hivel=1  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=233344 loop_end=335236
+<region> sample=fsaw31 32-X392.wav key=48 lokey=0 hikey=127 lovel=41 hivel=43  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=134147 loop_end=233639
+<region> sample=fsaw43 44-1DCX.wav key=48 lokey=0 hikey=127 lovel=57 hivel=59  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=168697 loop_end=272392
+<region> sample=fsaw55 56-W1ZW.wav key=48 lokey=0 hikey=127 lovel=73 hivel=74  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=286323 loop_end=396450

@@ -1,0 +1,23 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Mwater.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Samples/Mwater/
+
+<group>        // Group
+<region> sample=mwater53 56-88ZM.wav key=48 lokey=0 hikey=127 lovel=104 hivel=111  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=781 loop_end=247719
+<region> sample=mwater25 28-BG0U.wav key=48 lokey=0 hikey=127 lovel=48 hivel=55  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=106400 loop_end=352021
+<region> sample=mwater45 48-2D2M.wav key=48 lokey=0 hikey=127 lovel=88 hivel=95  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=119047 loop_end=365985
+<region> sample=mwater49 52-0LF1.wav key=48 lokey=0 hikey=127 lovel=96 hivel=103  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=119044 loop_end=365982
+<region> sample=mwater41 44-ZWXP.wav key=48 lokey=0 hikey=127 lovel=80 hivel=87  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=119050 loop_end=365988
+<region> sample=mwater21 24-2AR1.wav key=48 lokey=0 hikey=127 lovel=40 hivel=47  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=106393 loop_end=352012
+<region> sample=mwater57 60-C9TX.wav key=48 lokey=0 hikey=127 lovel=112 hivel=119  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=119045 loop_end=365983
+<region> sample=mwater1 4-SCTV.wav key=48 lokey=0 hikey=127 lovel=0 hivel=7  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=117327 loop_end=364279
+<region> sample=mwater17 20-BAYS.wav key=48 lokey=0 hikey=127 lovel=32 hivel=39  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=106404 loop_end=352017
+<region> sample=mwater29 32-NWRM.wav key=48 lokey=0 hikey=127 lovel=56 hivel=63  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=106194 loop_end=351746
+<region> sample=mwater13 16-EYNJ.wav key=48 lokey=0 hikey=127 lovel=24 hivel=31  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=117347 loop_end=364296
+<region> sample=mwater9 12-53H5.wav key=48 lokey=0 hikey=127 lovel=16 hivel=23  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=117363 loop_end=364313
+<region> sample=mwater5 8-2WJ4.wav key=48 lokey=0 hikey=127 lovel=8 hivel=15  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=117372 loop_end=364323
+<region> sample=mwater61 64-RFEJ.wav key=48 lokey=0 hikey=127 lovel=120 hivel=127  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=124248 loop_end=371186
+<region> sample=mwater37 40-ON8D.wav key=48 lokey=0 hikey=127 lovel=72 hivel=79  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=119045 loop_end=365983
+<region> sample=mwater33 36-VRHF.wav key=48 lokey=0 hikey=127 lovel=64 hivel=71  volume=6 amp_veltrack=20  loop_mode=loop_continuous loop_start=118917 loop_end=365855
