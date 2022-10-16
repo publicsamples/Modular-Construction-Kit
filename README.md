@@ -5,5 +5,5 @@ Multi-samples of a variety of different basic waveforms. Each mutisample has 8+ 
 **Supported Formats:** Logic Sampler, Kontakt, Falcon and SFZ (partial)
 
 
-**[Download Audio Files](https://github.com/publicsamples/Modular-Complex-Waveforms/releases/tag/fm-1.0)**
+**[Download Audio Files](https://github.com/publicsamples/Modular-Complex-Waveforms/releases/tag)**
 
